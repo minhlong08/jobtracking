@@ -16,7 +16,7 @@ from zoneinfo import ZoneInfo
 import yaml
 
 from . import emailer, store
-from .adapters import adapter_for
+from .adapters import adapter_for, needs_llm
 from .adapters.base import Context, make_client
 from .filters import classify, clean_location
 from .models import Company, Job
@@ -55,12 +55,23 @@ async def main() -> None:
     companies = [Company(**c) for c in yaml.safe_load((DATA / "companies.yaml").read_text())]
     manual = [c for c in companies if not c.enabled]
     companies = [c for c in companies if c.enabled]
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        # Without a key, list these for manual checking instead of failing them every day.
+        skipped = [c for c in companies if needs_llm(c)]
+        for c in skipped:
+            c.manual_reason = "Not tracked yet (needs an Anthropic API key)"
+        manual += skipped
+        companies = [c for c in companies if not needs_llm(c)]
+        log(f"ANTHROPIC_API_KEY not set: skipping {len(skipped)} companies that need the page-reading fallback")
     if args.only:
         wanted = set(args.only.split(","))
         companies = [c for c in companies if c.id in wanted]
 
     health_path = DATA / "health.json"
     health = json.loads(health_path.read_text()) if health_path.exists() else {}
+    for c in manual:
+        if c.enabled:
+            health.setdefault(c.id, {}).update(name=c.name, status="skipped", error=c.manual_reason)
     cache_dir = DATA / "llm_cache"
     cache_dir.mkdir(exist_ok=True)
 

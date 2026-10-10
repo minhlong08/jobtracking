@@ -24,3 +24,8 @@ def adapter_for(company: Company) -> Adapter:
     kind = (company.ats or {}).get("type", "llm")
     # ATS types we detect but have no API adapter for are scraped from the rendered page.
     return ADAPTERS.get(kind, llm_page.fetch)
+
+
+def needs_llm(company: Company) -> bool:
+    """True if this company can only be read by the Claude page fallback."""
+    return adapter_for(company) is llm_page.fetch

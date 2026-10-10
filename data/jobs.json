@@ -362,7 +362,742 @@
    "sector": "Energy / Resources / Infrastructure",
    "url": "https://www.originenergy.com.au/about/careers/",
    "reason": "Careers page has moved"
+  },
+  {
+   "id": "google",
+   "name": "Google",
+   "sector": "Big Tech / Global Software",
+   "url": "https://www.google.com/about/careers/applications/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "microsoft",
+   "name": "Microsoft",
+   "sector": "Big Tech / Global Software",
+   "url": "https://careers.microsoft.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "apple",
+   "name": "Apple",
+   "sector": "Big Tech / Global Software",
+   "url": "https://jobs.apple.com/en-au/search",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "meta",
+   "name": "Meta",
+   "sector": "Big Tech / Global Software",
+   "url": "https://www.metacareers.com/jobs",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "oracle",
+   "name": "Oracle",
+   "sector": "Big Tech / Global Software",
+   "url": "https://www.oracle.com/au/corporate/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "ibm",
+   "name": "IBM",
+   "sector": "Big Tech / Global Software",
+   "url": "https://www.ibm.com/au-en/employment/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "sap",
+   "name": "SAP",
+   "sector": "Big Tech / Global Software",
+   "url": "https://jobs.sap.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "shopify",
+   "name": "Shopify",
+   "sector": "Big Tech / Global Software",
+   "url": "https://www.shopify.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "hubspot",
+   "name": "HubSpot",
+   "sector": "Big Tech / Global Software",
+   "url": "https://www.hubspot.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "booking-com",
+   "name": "Booking.com",
+   "sector": "Big Tech / Global Software",
+   "url": "https://jobs.booking.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "paypal",
+   "name": "PayPal",
+   "sector": "Big Tech / Global Software",
+   "url": "https://careers.pypl.com/home/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "doordash",
+   "name": "DoorDash",
+   "sector": "Big Tech / Global Software",
+   "url": "https://careers.doordash.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "myob",
+   "name": "MYOB",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.myob.com/au/about/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "rea-group",
+   "name": "REA Group",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.rea-group.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "linktree",
+   "name": "Linktree",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://linktr.ee/s/about/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "employment-hero",
+   "name": "Employment Hero",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://employmenthero.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "iress",
+   "name": "Iress",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.iress.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "technology-one",
+   "name": "Technology One",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.technologyonecorp.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "wisetech-global",
+   "name": "WiseTech Global",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.wisetechglobal.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "altium",
+   "name": "Altium",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.altium.com/company/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "nuix",
+   "name": "Nuix",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.nuix.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "airtasker",
+   "name": "Airtasker",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.airtasker.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "tyro-payments",
+   "name": "Tyro Payments",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.tyro.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "zip-co",
+   "name": "Zip Co",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://zip.co/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "rokt",
+   "name": "Rokt",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.rokt.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "lendi-group",
+   "name": "Lendi Group",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.lendi.com.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "whispir",
+   "name": "Whispir",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.whispir.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "tanda",
+   "name": "Tanda",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.tanda.co/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "mantel-group",
+   "name": "Mantel Group",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://mantelgroup.com.au/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "instaclustr",
+   "name": "Instaclustr (NetApp)",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://www.instaclustr.com/company/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "gentrack",
+   "name": "Gentrack",
+   "sector": "Australian Software / Scale-ups",
+   "url": "https://gentrack.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "anz",
+   "name": "ANZ",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.anz.com.au/about-us/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "nab",
+   "name": "NAB",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.nab.com.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "macquarie-group",
+   "name": "Macquarie Group",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.macquarie.com/au/en/careers.html",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "suncorp",
+   "name": "Suncorp",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.suncorpgroup.com.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "ing-australia",
+   "name": "ING Australia",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.ing.com.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "bendigo-and-adelaide-bank",
+   "name": "Bendigo and Adelaide Bank",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.bendigoadelaide.com.au/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "boq-group",
+   "name": "BOQ Group",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.boq.com.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "hsbc-australia",
+   "name": "HSBC Australia",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.hsbc.com.au/about-us/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "ubs",
+   "name": "UBS",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.ubs.com/global/en/careers.html",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "goldman-sachs",
+   "name": "Goldman Sachs",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.goldmansachs.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "qbe",
+   "name": "QBE",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.qbe.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "iag",
+   "name": "IAG",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.iag.com.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "medibank",
+   "name": "Medibank",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.medibank.com.au/about/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "nib",
+   "name": "nib",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.nib.com.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "allianz-australia",
+   "name": "Allianz Australia",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.allianz.com.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "aware-super",
+   "name": "Aware Super",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://aware.com.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "equifax-australia",
+   "name": "Equifax Australia",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.equifax.com.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "illion",
+   "name": "illion",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.illion.com.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "zurich-australia",
+   "name": "Zurich Australia",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.zurich.com.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "vanguard-australia",
+   "name": "Vanguard Australia",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://www.vanguard.com.au/corporate/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "blackrock",
+   "name": "BlackRock",
+   "sector": "Banking / Finance / Insurance",
+   "url": "https://careers.blackrock.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "optiver",
+   "name": "Optiver",
+   "sector": "Trading / Quant",
+   "url": "https://optiver.com/working-at-optiver/career-opportunities/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "citadel-securities",
+   "name": "Citadel Securities",
+   "sector": "Trading / Quant",
+   "url": "https://www.citadelsecurities.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "deloitte",
+   "name": "Deloitte",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.deloitte.com/au/en/careers.html",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "pwc-australia",
+   "name": "PwC Australia",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.pwc.com.au/careers.html",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "ey",
+   "name": "EY",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.ey.com/en_au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "kpmg-australia",
+   "name": "KPMG Australia",
+   "sector": "Consulting / IT Services",
+   "url": "https://kpmg.com/au/en/home/careers.html",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "bcg",
+   "name": "BCG (BCG X)",
+   "sector": "Consulting / IT Services",
+   "url": "https://careers.bcg.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "capgemini",
+   "name": "Capgemini",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.capgemini.com/au-en/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "wipro",
+   "name": "Wipro",
+   "sector": "Consulting / IT Services",
+   "url": "https://careers.wipro.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "cognizant",
+   "name": "Cognizant",
+   "sector": "Consulting / IT Services",
+   "url": "https://careers.cognizant.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "tech-mahindra",
+   "name": "Tech Mahindra",
+   "sector": "Consulting / IT Services",
+   "url": "https://careers.techmahindra.com/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "dxc-technology",
+   "name": "DXC Technology",
+   "sector": "Consulting / IT Services",
+   "url": "https://dxc.com/au/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "fujitsu-australia",
+   "name": "Fujitsu Australia",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.fujitsu.com/au/about/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "ntt-data",
+   "name": "NTT DATA",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.nttdata.com/global/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "slalom",
+   "name": "Slalom",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.slalom.com/us/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "datacom",
+   "name": "Datacom",
+   "sector": "Consulting / IT Services",
+   "url": "https://datacom.com/au/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "data-3",
+   "name": "Data#3",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.data3.com/about-us/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "atos",
+   "name": "Atos",
+   "sector": "Consulting / IT Services",
+   "url": "https://atos.net/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "cgi",
+   "name": "CGI",
+   "sector": "Consulting / IT Services",
+   "url": "https://www.cgi.com/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "cybercx",
+   "name": "CyberCX",
+   "sector": "Consulting / IT Services",
+   "url": "https://cybercx.com.au/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "lockheed-martin-australia",
+   "name": "Lockheed Martin Australia",
+   "sector": "Defence / Aerospace",
+   "url": "https://www.lockheedmartin.com/en-au/careers.html",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "northrop-grumman-australia",
+   "name": "Northrop Grumman Australia",
+   "sector": "Defence / Aerospace",
+   "url": "https://www.northropgrumman.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "telstra",
+   "name": "Telstra",
+   "sector": "Telco / Infrastructure",
+   "url": "https://www.telstra.com.au/aboutus/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "aussie-broadband",
+   "name": "Aussie Broadband",
+   "sector": "Telco / Infrastructure",
+   "url": "https://www.aussiebroadband.com.au/about-us/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "nbn-co",
+   "name": "NBN Co",
+   "sector": "Telco / Infrastructure",
+   "url": "https://www.nbnco.com.au/corporate-information/about-nbn-co/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "vocus",
+   "name": "Vocus",
+   "sector": "Telco / Infrastructure",
+   "url": "https://www.vocus.com.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "superloop",
+   "name": "Superloop",
+   "sector": "Telco / Infrastructure",
+   "url": "https://www.superloop.com/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "macquarie-technology-group",
+   "name": "Macquarie Technology Group",
+   "sector": "Telco / Infrastructure",
+   "url": "https://macquarietechnologygroup.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "australian-taxation-office",
+   "name": "Australian Taxation Office",
+   "sector": "Government / Research",
+   "url": "https://www.ato.gov.au/about-ato/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "services-australia",
+   "name": "Services Australia",
+   "sector": "Government / Research",
+   "url": "https://www.servicesaustralia.gov.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "australian-bureau-of-statistics",
+   "name": "Australian Bureau of Statistics",
+   "sector": "Government / Research",
+   "url": "https://www.abs.gov.au/about/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "csiro-data61",
+   "name": "CSIRO / Data61",
+   "sector": "Government / Research",
+   "url": "https://www.csiro.au/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "department-of-defence",
+   "name": "Department of Defence",
+   "sector": "Government / Research",
+   "url": "https://www.defence.gov.au/jobs-careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "australian-signals-directorate",
+   "name": "Australian Signals Directorate",
+   "sector": "Government / Research",
+   "url": "https://www.asd.gov.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "department-of-home-affairs",
+   "name": "Department of Home Affairs",
+   "sector": "Government / Research",
+   "url": "https://www.homeaffairs.gov.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "bureau-of-meteorology",
+   "name": "Bureau of Meteorology",
+   "sector": "Government / Research",
+   "url": "https://www.bom.gov.au/about/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "asic",
+   "name": "ASIC",
+   "sector": "Government / Research",
+   "url": "https://asic.gov.au/about-asic/careers-at-asic/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "treasury",
+   "name": "Treasury",
+   "sector": "Government / Research",
+   "url": "https://treasury.gov.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "digital-transformation-agency",
+   "name": "Digital Transformation Agency",
+   "sector": "Government / Research",
+   "url": "https://www.dta.gov.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "geoscience-australia",
+   "name": "Geoscience Australia",
+   "sector": "Government / Research",
+   "url": "https://www.ga.gov.au/about/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "australian-federal-police",
+   "name": "Australian Federal Police",
+   "sector": "Government / Research",
+   "url": "https://www.afp.gov.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "transport-for-nsw",
+   "name": "Transport for NSW",
+   "sector": "Government / Research",
+   "url": "https://www.transport.nsw.gov.au/about-us/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "nsw-health",
+   "name": "NSW Health",
+   "sector": "Government / Research",
+   "url": "https://www.health.nsw.gov.au/careers/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "victorian-government",
+   "name": "Victorian Government",
+   "sector": "Government / Research",
+   "url": "https://careers.vic.gov.au/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "queensland-government",
+   "name": "Queensland Government",
+   "sector": "Government / Research",
+   "url": "https://smartjobs.qld.gov.au/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "wa-government",
+   "name": "WA Government",
+   "sector": "Government / Research",
+   "url": "https://search.jobs.wa.gov.au/",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "australia-post",
+   "name": "Australia Post",
+   "sector": "Government / Research",
+   "url": "https://auspost.com.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "dstg",
+   "name": "DSTG (Defence Science & Tech)",
+   "sector": "Government / Research",
+   "url": "https://www.dst.defence.gov.au/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "cochlear",
+   "name": "Cochlear",
+   "sector": "Health / Biotech / Medtech",
+   "url": "https://www.cochlear.com/au/en/corporate/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "rio-tinto",
+   "name": "Rio Tinto",
+   "sector": "Energy / Resources / Infrastructure",
+   "url": "https://www.riotinto.com/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "bhp",
+   "name": "BHP",
+   "sector": "Energy / Resources / Infrastructure",
+   "url": "https://www.bhp.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "fortescue",
+   "name": "Fortescue",
+   "sector": "Energy / Resources / Infrastructure",
+   "url": "https://www.fortescue.com/en/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
+  },
+  {
+   "id": "woodside-energy",
+   "name": "Woodside Energy",
+   "sector": "Energy / Resources / Infrastructure",
+   "url": "https://www.woodside.com/careers",
+   "reason": "Not tracked yet (needs an Anthropic API key)"
   }
  ],
- "updated_at": "2026-10-10T16:06+11:00"
+ "updated_at": "2026-10-10T16:30+11:00"
 }

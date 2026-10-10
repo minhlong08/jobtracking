@@ -3,7 +3,7 @@
   "name": "Accenture",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 25.9,
+  "seconds": 25.3,
   "status": "ok",
   "error": null,
   "raw": 288,
@@ -16,7 +16,7 @@
   "name": "Adobe",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 1.8,
+  "seconds": 1.7,
   "status": "ok",
   "error": null,
   "raw": 3,
@@ -43,14 +43,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "airtrunk": {
   "name": "AirTrunk",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.5,
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
   "raw": 71,
@@ -63,7 +63,7 @@
   "name": "Airwallex",
   "source": "ashby",
   "last_run": "2026-10-10",
-  "seconds": 0.5,
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 529,
@@ -90,22 +90,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "altium": {
   "name": "Altium",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "amazon-aws": {
   "name": "Amazon / AWS",
   "source": "amazon",
   "last_run": "2026-10-10",
-  "seconds": 4.0,
+  "seconds": 3.2,
   "status": "ok",
   "error": null,
   "raw": 27,
@@ -118,7 +118,7 @@
   "name": "AMP",
   "source": "oracle_hcm",
   "last_run": "2026-10-10",
-  "seconds": 2.2,
+  "seconds": 2.4,
   "status": "ok",
   "error": null,
   "raw": 11,
@@ -131,7 +131,7 @@
   "name": "Anduril Australia",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 23.3,
+  "seconds": 24.3,
   "status": "ok",
   "error": null,
   "raw": 2491,
@@ -145,14 +145,14 @@
   "source": "successfactors",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "appen": {
   "name": "Appen",
   "source": "lever",
   "last_run": "2026-10-10",
-  "seconds": 1.4,
+  "seconds": 3.5,
   "status": "ok",
   "error": null,
   "raw": 54,
@@ -166,14 +166,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "apra": {
   "name": "APRA",
   "source": "oracle_hcm",
   "last_run": "2026-10-10",
-  "seconds": 2.2,
+  "seconds": 2.7,
   "status": "ok",
   "error": null,
   "raw": 4,
@@ -187,14 +187,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "asx": {
   "name": "ASX",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 3.3,
+  "seconds": 3.6,
   "status": "ok",
   "error": null,
   "raw": 52,
@@ -221,94 +221,94 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "aussie-broadband": {
   "name": "Aussie Broadband",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "australia-post": {
   "name": "Australia Post",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "australian-bureau-of-statistics": {
   "name": "Australian Bureau of Statistics",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "australian-federal-police": {
   "name": "Australian Federal Police",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "australian-signals-directorate": {
   "name": "Australian Signals Directorate",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "australian-taxation-office": {
   "name": "Australian Taxation Office",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "aware-super": {
   "name": "Aware Super",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "bcg": {
   "name": "BCG (BCG X)",
   "source": "eightfold",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "bendigo-and-adelaide-bank": {
   "name": "Bendigo and Adelaide Bank",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "bhp": {
   "name": "BHP",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "bigtincan": {
   "name": "Bigtincan",
   "source": "smartrecruiters",
   "last_run": "2026-10-10",
-  "seconds": 1.0,
+  "seconds": 0.9,
   "status": "ok",
   "error": null,
   "raw": 1,
@@ -322,14 +322,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "block": {
   "name": "Block (Afterpay / Square)",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.2,
+  "seconds": 0.6,
   "status": "ok",
   "error": null,
   "raw": 231,
@@ -342,7 +342,7 @@
   "name": "Boeing Australia",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 2.6,
+  "seconds": 2.4,
   "status": "ok",
   "error": null,
   "raw": 1,
@@ -356,22 +356,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "boq-group": {
   "name": "BOQ Group",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "brighte": {
   "name": "Brighte",
   "source": "lever",
   "last_run": "2026-10-10",
-  "seconds": 0.3,
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
   "raw": 3,
@@ -385,8 +385,8 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "canva": {
   "name": "Canva",
@@ -406,8 +406,8 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "carsales": {
   "name": "carsales",
@@ -426,7 +426,7 @@
   "name": "Catapult Sports",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.2,
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 29,
@@ -440,14 +440,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "cisco": {
   "name": "Cisco",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 16.0,
+  "seconds": 16.3,
   "status": "ok",
   "error": null,
   "raw": 333,
@@ -461,14 +461,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "citi-australia": {
   "name": "Citi Australia",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 4.4,
+  "seconds": 4.0,
   "status": "ok",
   "error": null,
   "raw": 25,
@@ -482,22 +482,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "cognizant": {
   "name": "Cognizant",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "commonwealth-bank": {
   "name": "Commonwealth Bank",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 6.4,
+  "seconds": 6.6,
   "status": "ok",
   "error": null,
   "raw": 109,
@@ -510,7 +510,7 @@
   "name": "CrowdStrike",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 1.6,
+  "seconds": 1.7,
   "status": "ok",
   "error": null,
   "raw": 8,
@@ -524,8 +524,8 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "culture-amp": {
   "name": "Culture Amp",
@@ -545,22 +545,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "data-3": {
   "name": "Data#3",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "databricks": {
   "name": "Databricks",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.2,
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 892,
@@ -574,14 +574,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "datadog": {
   "name": "Datadog",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.3,
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
   "raw": 435,
@@ -594,7 +594,7 @@
   "name": "Dell Technologies",
   "source": "oracle_hcm",
   "last_run": "2026-10-10",
-  "seconds": 8.9,
+  "seconds": 8.0,
   "status": "ok",
   "error": null,
   "raw": 206,
@@ -608,24 +608,24 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "department-of-defence": {
   "name": "Department of Defence",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "department-of-home-affairs": {
   "name": "Department of Home Affairs",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "deputy": {
   "name": "Deputy",
@@ -645,22 +645,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "doordash": {
   "name": "DoorDash",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "dovetail": {
   "name": "Dovetail",
   "source": "ashby",
   "last_run": "2026-10-10",
-  "seconds": 0.3,
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 9,
@@ -687,22 +687,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "dxc-technology": {
   "name": "DXC Technology",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "elastic": {
   "name": "Elastic",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.2,
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 409,
@@ -716,22 +716,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "equifax-australia": {
   "name": "Equifax Australia",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "expedia-group": {
   "name": "Expedia Group",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 6.4,
+  "seconds": 6.3,
   "status": "ok",
   "error": null,
   "raw": 117,
@@ -745,14 +745,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "ferocia": {
   "name": "Ferocia (Up)",
   "source": "ashby",
   "last_run": "2026-10-10",
-  "seconds": 0.3,
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
   "raw": 2,
@@ -766,48 +766,48 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "fujitsu-australia": {
   "name": "Fujitsu Australia",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "gentrack": {
   "name": "Gentrack",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "geoscience-australia": {
   "name": "Geoscience Australia",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "goldman-sachs": {
   "name": "Goldman Sachs",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "google": {
   "name": "Google",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "harrison-ai": {
   "name": "Harrison.ai",
@@ -826,7 +826,7 @@
   "name": "Heidi Health",
   "source": "ashby",
   "last_run": "2026-10-10",
-  "seconds": 0.1,
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 80,
@@ -852,7 +852,7 @@
   "name": "HP",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 2.1,
+  "seconds": 2.0,
   "status": "ok",
   "error": null,
   "raw": 1,
@@ -866,46 +866,46 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "hubspot": {
   "name": "HubSpot",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "iag": {
   "name": "IAG",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "ibm": {
   "name": "IBM",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "illion": {
   "name": "illion",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "imc-trading": {
   "name": "IMC Trading",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.2,
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 175,
@@ -918,7 +918,7 @@
   "name": "Immutable",
   "source": "lever",
   "last_run": "2026-10-10",
-  "seconds": 0.5,
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
   "raw": 5,
@@ -932,30 +932,30 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "instaclustr": {
   "name": "Instaclustr (NetApp)",
   "source": "eightfold",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "iress": {
   "name": "Iress",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "j-p-morgan": {
   "name": "J.P. Morgan",
   "source": "oracle_hcm",
   "last_run": "2026-10-10",
-  "seconds": 33.7,
+  "seconds": 36.3,
   "status": "ok",
   "error": null,
   "raw": 999,
@@ -995,14 +995,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "kyndryl": {
   "name": "Kyndryl",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 12.1,
+  "seconds": 11.0,
   "status": "ok",
   "error": null,
   "raw": 44,
@@ -1015,7 +1015,7 @@
   "name": "Leidos Australia",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 7.5,
+  "seconds": 6.0,
   "status": "ok",
   "error": null,
   "raw": 97,
@@ -1029,54 +1029,54 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "linktree": {
   "name": "Linktree",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "lockheed-martin-australia": {
   "name": "Lockheed Martin Australia",
   "source": "eightfold",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "macquarie-group": {
   "name": "Macquarie Group",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "macquarie-technology-group": {
   "name": "Macquarie Technology Group",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "mantel-group": {
   "name": "Mantel Group",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "mastercard": {
   "name": "Mastercard",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 28.8,
+  "seconds": 26.5,
   "status": "ok",
   "error": null,
   "raw": 300,
@@ -1090,14 +1090,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "megaport": {
   "name": "Megaport",
   "source": "lever",
   "last_run": "2026-10-10",
-  "seconds": 2.2,
+  "seconds": 1.0,
   "status": "ok",
   "error": null,
   "raw": 54,
@@ -1111,40 +1111,40 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "microsoft": {
   "name": "Microsoft",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "myob": {
   "name": "MYOB",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "nab": {
   "name": "NAB",
   "source": "eightfold",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "nbn-co": {
   "name": "NBN Co",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "nearmap": {
   "name": "Nearmap",
@@ -1163,7 +1163,7 @@
   "name": "NEXTDC",
   "source": "smartrecruiters",
   "last_run": "2026-10-10",
-  "seconds": 1.5,
+  "seconds": 1.0,
   "status": "ok",
   "error": null,
   "raw": 16,
@@ -1177,46 +1177,46 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "northrop-grumman-australia": {
   "name": "Northrop Grumman Australia",
   "source": "eightfold",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "nsw-health": {
   "name": "NSW Health",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "ntt-data": {
   "name": "NTT DATA",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "nuix": {
   "name": "Nuix",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "nvidia": {
   "name": "NVIDIA",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 29.5,
+  "seconds": 33.2,
   "status": "ok",
   "error": null,
   "raw": 257,
@@ -1242,7 +1242,7 @@
   "name": "Okta",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.2,
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 378,
@@ -1256,22 +1256,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "oracle": {
   "name": "Oracle",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "palo-alto-networks": {
   "name": "Palo Alto Networks",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 7.4,
+  "seconds": 8.0,
   "status": "ok",
   "error": null,
   "raw": 244,
@@ -1285,14 +1285,14 @@
   "source": "eightfold",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "pexa": {
   "name": "PEXA",
   "source": "lever",
   "last_run": "2026-10-10",
-  "seconds": 0.5,
+  "seconds": 1.5,
   "status": "ok",
   "error": null,
   "raw": 7,
@@ -1319,22 +1319,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "qbe": {
   "name": "QBE",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "quantium": {
   "name": "Quantium",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.2,
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 34,
@@ -1348,22 +1348,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "rea-group": {
   "name": "REA Group",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "reserve-bank-of-australia": {
   "name": "Reserve Bank of Australia",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 3.1,
+  "seconds": 2.8,
   "status": "ok",
   "error": null,
   "raw": 20,
@@ -1376,7 +1376,7 @@
   "name": "ResMed",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 3.6,
+  "seconds": 3.7,
   "status": "ok",
   "error": null,
   "raw": 49,
@@ -1390,22 +1390,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "rokt": {
   "name": "Rokt",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "rtx-raytheon-australia": {
   "name": "RTX / Raytheon Australia",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 16.1,
+  "seconds": 15.8,
   "status": "ok",
   "error": null,
   "raw": 542,
@@ -1431,7 +1431,7 @@
   "name": "Salesforce",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 2.7,
+  "seconds": 2.5,
   "status": "ok",
   "error": null,
   "raw": 45,
@@ -1445,14 +1445,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "seek": {
   "name": "SEEK",
   "source": "smartrecruiters",
   "last_run": "2026-10-10",
-  "seconds": 1.0,
+  "seconds": 0.9,
   "status": "ok",
   "error": null,
   "raw": 15,
@@ -1479,16 +1479,16 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "shopify": {
   "name": "Shopify",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "siteminder": {
   "name": "SiteMinder",
@@ -1508,14 +1508,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "snowflake": {
   "name": "Snowflake",
   "source": "ashby",
   "last_run": "2026-10-10",
-  "seconds": 0.4,
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 358,
@@ -1528,7 +1528,7 @@
   "name": "Stripe",
   "source": "greenhouse",
   "last_run": "2026-10-10",
-  "seconds": 0.2,
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 729,
@@ -1542,48 +1542,48 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "superloop": {
   "name": "Superloop",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "tanda": {
   "name": "Tanda",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "tech-mahindra": {
   "name": "Tech Mahindra",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "technology-one": {
   "name": "Technology One",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "telstra": {
   "name": "Telstra",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "thoughtworks": {
   "name": "Thoughtworks",
@@ -1602,7 +1602,7 @@
   "name": "TPG Telecom",
   "source": "oracle_hcm",
   "last_run": "2026-10-10",
-  "seconds": 2.3,
+  "seconds": 2.0,
   "status": "ok",
   "error": null,
   "raw": 10,
@@ -1616,14 +1616,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "transurban": {
   "name": "Transurban",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 8.4,
+  "seconds": 7.7,
   "status": "ok",
   "error": null,
   "raw": 5,
@@ -1637,8 +1637,8 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "twilio": {
   "name": "Twilio",
@@ -1658,14 +1658,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "uber": {
   "name": "Uber",
   "source": "oracle_hcm",
   "last_run": "2026-10-10",
-  "seconds": 12.6,
+  "seconds": 9.3,
   "status": "ok",
   "error": null,
   "raw": 222,
@@ -1679,14 +1679,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "unisuper": {
   "name": "UniSuper",
   "source": "oracle_hcm",
   "last_run": "2026-10-10",
-  "seconds": 2.3,
+  "seconds": 2.1,
   "status": "ok",
   "error": null,
   "raw": 7,
@@ -1700,14 +1700,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "versent": {
   "name": "Versent",
   "source": "smartrecruiters",
   "last_run": "2026-10-10",
-  "seconds": 1.0,
+  "seconds": 0.9,
   "status": "ok",
   "error": null,
   "raw": 2,
@@ -1721,14 +1721,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "visa": {
   "name": "Visa",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 2.1,
+  "seconds": 1.9,
   "status": "ok",
   "error": null,
   "raw": 9,
@@ -1742,22 +1742,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "wa-government": {
   "name": "WA Government",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "westpac-group": {
   "name": "Westpac Group",
   "source": "oracle_hcm",
   "last_run": "2026-10-10",
-  "seconds": 3.2,
+  "seconds": 3.3,
   "status": "ok",
   "error": null,
   "raw": 42,
@@ -1771,16 +1771,16 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "wipro": {
   "name": "Wipro",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "wise": {
   "name": "Wise",
@@ -1800,22 +1800,22 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "woodside-energy": {
   "name": "Woodside Energy",
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "workday": {
   "name": "Workday",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 5.4,
+  "seconds": 4.1,
   "status": "ok",
   "error": null,
   "raw": 16,
@@ -1828,7 +1828,7 @@
   "name": "Xero",
   "source": "ashby",
   "last_run": "2026-10-10",
-  "seconds": 0.3,
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 120,
@@ -1855,14 +1855,14 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  },
  "zoom": {
   "name": "Zoom",
   "source": "workday",
   "last_run": "2026-10-10",
-  "seconds": 2.0,
+  "seconds": 1.9,
   "status": "ok",
   "error": null,
   "raw": 1,
@@ -1876,7 +1876,7 @@
   "source": "llm",
   "last_run": "2026-10-10",
   "seconds": 0.0,
-  "status": "error",
-  "error": "RuntimeError: ANTHROPIC_API_KEY not set; cannot scrape non-ATS page"
+  "status": "skipped",
+  "error": "Not tracked yet (needs an Anthropic API key)"
  }
 }
