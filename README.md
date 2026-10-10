@@ -36,17 +36,18 @@ Filters live in `scraper/src/tracker/filters.py` and have table tests in
    repo, so the job data will be public. It's all public postings anyway. Your Saved/Applied marks
    stay private in your browser.
 2. **Enable Pages:** go to Settings → Pages → Source and choose **GitHub Actions**.
-3. **Create a Gmail App Password.** This needs 2-Step Verification on your Google account. Go to
-   <https://myaccount.google.com/apppasswords> and create one called "Intern Tracker".
+3. **Create a Resend API key.** Sign up at <https://resend.com> with the email address you want
+   the daily digest sent to. Under API Keys, create one with **Sending access** only. The free tier
+   is 100 emails a day. A Resend key can only send email and can't read any inbox. Without a
+   verified domain, Resend only delivers to the address you signed up with, which is all this needs.
 4. **Get an Anthropic API key** at <https://console.anthropic.com>. About 100 companies have no
    public API and are read by Claude. Expect a few cents a day.
 5. **Add repo secrets** under Settings → Secrets and variables → Actions:
 
    | Secret | Value |
    |---|---|
-   | `GMAIL_USER` | your Gmail address |
-   | `GMAIL_APP_PASSWORD` | the 16-character app password |
-   | `EMAIL_TO` | where to send the daily email (defaults to `GMAIL_USER`) |
+   | `RESEND_API_KEY` | your Resend API key (`re_...`) |
+   | `EMAIL_TO` | the address you signed up to Resend with |
    | `ANTHROPIC_API_KEY` | your Anthropic key |
 
 6. **Run it once by hand:** go to Actions → *Daily intern scrape* → **Run workflow**. The board is
@@ -69,8 +70,8 @@ uv venv -p 3.12 .venv && VIRTUAL_ENV=.venv uv pip install -e 'scraper[dev]'
 cd site && npm install && npm run dev                           # job board at localhost:5173
 ```
 
-Set `ANTHROPIC_API_KEY` to include the Claude-scraped companies, and `GMAIL_USER` /
-`GMAIL_APP_PASSWORD` to send email locally. `TRACKER_DEBUG=1` prints full tracebacks.
+Set `ANTHROPIC_API_KEY` to include the Claude-scraped companies, and `RESEND_API_KEY` /
+`EMAIL_TO` to send email locally. `TRACKER_DEBUG=1` prints full tracebacks.
 
 ## Adding or fixing a company
 

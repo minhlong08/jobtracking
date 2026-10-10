@@ -1,9 +1,8 @@
 import os
-import smtplib
 from collections import defaultdict
-from email.message import EmailMessage
 from pathlib import Path
 
+import httpx
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from .models import Job
@@ -24,14 +23,22 @@ def render(new: list[Job], *, headline: str, **ctx) -> str:
     return _env.get_template("email.html").render(groups=ordered, headline=headline, **ctx)
 
 
-def send(subject: str, html: str) -> None:
-    user, password = os.environ["GMAIL_USER"], os.environ["GMAIL_APP_PASSWORD"]
-    msg = EmailMessage()
-    msg["Subject"] = subject
-    msg["From"] = f"Intern Tracker <{user}>"
-    msg["To"] = os.environ.get("EMAIL_TO", user)
-    msg.set_content("This email is HTML; please view it in an HTML-capable client.")
-    msg.add_alternative(html, subtype="html")
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
-        s.login(user, password)
-        s.send_message(msg)
+RESEND_URL = "https://api.resend.com/emails"
+# Resend's shared sender works without a verified domain, but only delivers
+# to the address the Resend account was created with.
+DEFAULT_FROM = "Intern Tracker <onboarding@resend.dev>"
+
+
+def send(subject: str, html: str, transport: httpx.BaseTransport | None = None) -> None:
+    """Send via Resend. Its API key can only send email, never read a mailbox."""
+    payload = {
+        "from": os.environ.get("EMAIL_FROM") or DEFAULT_FROM,
+        "to": [os.environ["EMAIL_TO"]],
+        "subject": subject,
+        "html": html,
+    }
+    headers = {"Authorization": f"Bearer {os.environ['RESEND_API_KEY']}"}
+    with httpx.Client(timeout=30, transport=transport) as client:
+        r = client.post(RESEND_URL, json=payload, headers=headers)
+    if r.status_code >= 400:
+        raise RuntimeError(f"Resend rejected the email ({r.status_code}): {r.text[:300]}")

@@ -141,7 +141,7 @@ async def main() -> None:
     total_open = sum(1 for j in db["jobs"] if not j.get("closed"))
     log(f"\n{len(found)} matched, {len(announce)} new, {len(initial)} initial, {total_open} open, {len(ok_companies)}/{len(companies)} companies OK")
 
-    if args.no_email or not os.environ.get("GMAIL_APP_PASSWORD"):
+    if args.no_email or not os.environ.get("RESEND_API_KEY"):
         log("email skipped")
         return
     by_id = {c.id: c for c in companies}
