@@ -32,3 +32,13 @@ def test_send_raises_on_rejection(monkeypatch):
     transport = httpx.MockTransport(lambda r: httpx.Response(403, json={"message": "invalid key"}))
     with pytest.raises(RuntimeError, match="403"):
         emailer.send("s", "h", transport=transport)
+
+
+def test_rejection_message_hides_email_addresses(monkeypatch):
+    monkeypatch.setenv("RESEND_API_KEY", "re_test")
+    monkeypatch.setenv("EMAIL_TO", "me@example.com")
+    body = {"message": "You can only send testing emails to your own email address (owner@gmail.com)."}
+    transport = httpx.MockTransport(lambda r: httpx.Response(403, json=body))
+    with pytest.raises(RuntimeError) as err:
+        emailer.send("s", "h", transport=transport)
+    assert "owner@gmail.com" not in str(err.value) and "<email>" in str(err.value)

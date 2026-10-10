@@ -1,4 +1,5 @@
 import os
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -41,4 +42,6 @@ def send(subject: str, html: str, transport: httpx.BaseTransport | None = None) 
     with httpx.Client(timeout=30, transport=transport) as client:
         r = client.post(RESEND_URL, json=payload, headers=headers)
     if r.status_code >= 400:
-        raise RuntimeError(f"Resend rejected the email ({r.status_code}): {r.text[:300]}")
+        # Workflow logs are public; don't echo addresses from Resend's error message.
+        detail = re.sub(r"[\w.+-]+@[\w-]+\.[\w.-]+", "<email>", r.text[:300])
+        raise RuntimeError(f"Resend rejected the email ({r.status_code}): {detail}")
