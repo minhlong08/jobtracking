@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.egg-info/
+node_modules/
+site/dist/
+site/public/jobs.json
+.env
+.DS_Store
+*.tsbuildinfo
