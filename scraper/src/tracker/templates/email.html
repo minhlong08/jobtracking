@@ -1,0 +1,33 @@
+<!doctype html>
+<html><body style="margin:0;padding:0;background:#f4f5f7;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#1f2933">
+<div style="max-width:680px;margin:0 auto;padding:24px 16px">
+  <h1 style="font-size:20px;margin:0 0 4px">{{ headline }}</h1>
+  <p style="margin:0 0 20px;color:#52606d;font-size:14px">{{ today.strftime('%A %d %B %Y') }} · {{ total_open }} open roles tracked across {{ ok_count }} companies
+  {% if site_url %} · <a href="{{ site_url }}" style="color:#2563eb">Open job board</a>{% endif %}</p>
+
+  {% for category, companies in groups %}
+  <h2 style="font-size:15px;margin:24px 0 8px;padding-bottom:6px;border-bottom:2px solid #e4e7eb">{{ category }}</h2>
+    {% for company, jobs in companies %}
+      {% for job in jobs %}
+      <div style="background:#fff;border:1px solid #e4e7eb;border-radius:8px;padding:12px 14px;margin:0 0 8px">
+        <div style="font-size:15px;font-weight:600;margin-bottom:2px">{{ job.title }}</div>
+        <div style="font-size:13px;color:#52606d;margin-bottom:8px">{{ job.company }} · {{ job.location }} · {{ job.level }}{% if job.posted_at %} · posted {{ job.posted_at }}{% endif %}</div>
+        <a href="{{ job.url }}" style="display:inline-block;background:#2563eb;color:#fff;text-decoration:none;font-size:13px;font-weight:600;padding:6px 14px;border-radius:6px">Apply</a>
+      </div>
+      {% endfor %}
+    {% endfor %}
+  {% endfor %}
+
+  {% if initial_count %}
+  <p style="font-size:13px;color:#52606d;margin-top:20px">{{ initial_count }} existing role(s) were picked up from newly tracked companies and added to the job board without being listed here.</p>
+  {% endif %}
+
+  {% if problems %}
+  <h2 style="font-size:14px;margin:28px 0 6px;color:#9a3412">Scraper health</h2>
+  <p style="font-size:12px;color:#52606d;margin:0 0 6px">These companies failed this run or have returned no postings for 7+ days, so check them manually:</p>
+  <ul style="font-size:12px;color:#52606d;margin:0;padding-left:18px">
+    {% for p in problems[:20] %}<li><a href="{{ p.url }}" style="color:#52606d">{{ p.name }}</a>: {{ p.reason }}</li>{% endfor %}
+  </ul>
+  {% if problems|length > 20 %}<p style="font-size:12px;color:#52606d;margin:6px 0 0">…and {{ problems|length - 20 }} more. See data/health.json in the repo.</p>{% endif %}
+  {% endif %}
+</div></body></html>
