@@ -1,0 +1,1301 @@
+- id: atlassian
+  name: Atlassian
+  sector: Big Tech / Global Software
+  careers_url: https://www.atlassian.com/company/careers
+  ats:
+    type: atlassian
+- id: canva
+  name: Canva
+  sector: Big Tech / Global Software
+  careers_url: https://www.canva.com/careers/
+  ats:
+    type: smartrecruiters
+    slug: canva
+- id: google
+  name: Google
+  sector: Big Tech / Global Software
+  careers_url: https://www.google.com/about/careers/applications/
+  ats:
+    type: llm
+    search_url: https://www.google.com/about/careers/applications/jobs/results?location=Australia&target_level=INTERN_AND_APPRENTICE&target_level=EARLY
+- id: amazon-aws
+  name: Amazon / AWS
+  sector: Big Tech / Global Software
+  careers_url: https://www.amazon.jobs/en/
+  ats:
+    type: amazon
+- id: microsoft
+  name: Microsoft
+  sector: Big Tech / Global Software
+  careers_url: https://careers.microsoft.com/
+  ats:
+    type: llm
+    search_url: https://jobs.careers.microsoft.com/global/en/search?lc=Australia&exp=Students%20and%20graduates
+- id: apple
+  name: Apple
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.apple.com/en-au/search
+  ats:
+    type: llm
+    search_url: https://jobs.apple.com/en-au/search?location=australia-AUSC&team=internships-STDNT-INTRN
+- id: meta
+  name: Meta
+  sector: Big Tech / Global Software
+  careers_url: https://www.metacareers.com/jobs
+  ats:
+    type: llm
+    search_url: https://www.metacareers.com/jobs?offices[0]=Sydney%2C%20Australia&offices[1]=Melbourne%2C%20Australia
+- id: salesforce
+  name: Salesforce
+  sector: Big Tech / Global Software
+  careers_url: https://careers.salesforce.com/en/jobs/
+  ats:
+    type: workday
+    tenant: salesforce
+    wd: wd12
+    site: External_Career_Site
+- id: oracle
+  name: Oracle
+  sector: Big Tech / Global Software
+  careers_url: https://www.oracle.com/au/corporate/careers/
+  ats: null
+- id: ibm
+  name: IBM
+  sector: Big Tech / Global Software
+  careers_url: https://www.ibm.com/au-en/employment/
+  ats: null
+- id: sap
+  name: SAP
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.sap.com/
+  ats: null
+- id: adobe
+  name: Adobe
+  sector: Big Tech / Global Software
+  careers_url: https://careers.adobe.com/us/en
+  ats:
+    type: workday
+    tenant: adobe
+    wd: wd5
+    site: external_experienced
+- id: cisco
+  name: Cisco
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.cisco.com/
+  ats:
+    type: workday
+    tenant: cisco
+    wd: wd5
+    site: Cisco_Careers
+- id: dell-technologies
+  name: Dell Technologies
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.dell.com/
+  ats:
+    type: oracle_hcm
+    host: iawmqy.fa.ocs.oraclecloud.com
+    site: careers
+- id: hp
+  name: HP
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.hp.com/
+  ats:
+    type: workday
+    tenant: hp
+    wd: wd5
+    site: ExternalCareerSite
+- id: nvidia
+  name: NVIDIA
+  sector: Big Tech / Global Software
+  careers_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+  ats:
+    type: workday
+    tenant: nvidia
+    wd: wd5
+    site: NVIDIAExternalCareerSite
+- id: workday
+  name: Workday
+  sector: Big Tech / Global Software
+  careers_url: https://www.workday.com/en-au/company/careers/overview.html
+  ats:
+    type: workday
+    tenant: workday
+    wd: wd5
+    site: Workday
+- id: servicenow
+  name: ServiceNow
+  sector: Big Tech / Global Software
+  careers_url: https://careers.servicenow.com/
+  ats:
+    type: smartrecruiters
+    slug: servicenow
+- id: snowflake
+  name: Snowflake
+  sector: Big Tech / Global Software
+  careers_url: https://careers.snowflake.com/
+  ats:
+    type: ashby
+    slug: snowflake
+- id: databricks
+  name: Databricks
+  sector: Big Tech / Global Software
+  careers_url: https://www.databricks.com/company/careers
+  ats:
+    type: greenhouse
+    slug: databricks
+- id: datadog
+  name: Datadog
+  sector: Big Tech / Global Software
+  careers_url: https://careers.datadoghq.com/
+  ats:
+    type: greenhouse
+    slug: datadog
+- id: stripe
+  name: Stripe
+  sector: Big Tech / Global Software
+  careers_url: https://stripe.com/jobs
+  ats:
+    type: greenhouse
+    slug: stripe
+- id: uber
+  name: Uber
+  sector: Big Tech / Global Software
+  careers_url: https://www.uber.com/au/en/careers/
+  ats:
+    type: oracle_hcm
+    host: iaziqy.fa.ocs.oraclecloud.com
+    site: UberCareers
+- id: shopify
+  name: Shopify
+  sector: Big Tech / Global Software
+  careers_url: https://www.shopify.com/careers
+  ats: null
+- id: twilio
+  name: Twilio
+  sector: Big Tech / Global Software
+  careers_url: https://www.twilio.com/en-us/company/jobs
+  ats:
+    type: greenhouse
+    slug: twilio
+- id: zendesk
+  name: Zendesk
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.zendesk.com/
+  ats:
+    type: workday
+    tenant: zendesk
+    wd: wd1
+    site: zendesk
+- id: hubspot
+  name: HubSpot
+  sector: Big Tech / Global Software
+  careers_url: https://www.hubspot.com/careers
+  ats: null
+- id: okta
+  name: Okta
+  sector: Big Tech / Global Software
+  careers_url: https://www.okta.com/company/careers/
+  ats:
+    type: greenhouse
+    slug: okta
+- id: crowdstrike
+  name: CrowdStrike
+  sector: Big Tech / Global Software
+  careers_url: https://www.crowdstrike.com/careers/
+  ats:
+    type: workday
+    tenant: crowdstrike
+    wd: wd5
+    site: crowdstrikecareers
+- id: palo-alto-networks
+  name: Palo Alto Networks
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.paloaltonetworks.com/
+  ats:
+    type: workday
+    tenant: paloaltonetworks
+    wd: wd5
+    site: panwexternalcareers
+- id: elastic
+  name: Elastic
+  sector: Big Tech / Global Software
+  careers_url: https://www.elastic.co/about/careers/
+  ats:
+    type: greenhouse
+    slug: elastic
+- id: dropbox
+  name: Dropbox
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.dropbox.com/
+  ats:
+    type: greenhouse
+    slug: dropbox
+- id: booking-com
+  name: Booking.com
+  sector: Big Tech / Global Software
+  careers_url: https://jobs.booking.com/
+  ats: null
+- id: expedia-group
+  name: Expedia Group
+  sector: Big Tech / Global Software
+  careers_url: https://careers.expediagroup.com/
+  ats:
+    type: workday
+    tenant: expedia
+    wd: wd108
+    site: search
+- id: block
+  name: Block (Afterpay / Square)
+  sector: Big Tech / Global Software
+  careers_url: https://block.xyz/careers
+  ats:
+    type: greenhouse
+    slug: block
+- id: paypal
+  name: PayPal
+  sector: Big Tech / Global Software
+  careers_url: https://careers.pypl.com/home/
+  ats:
+    type: eightfold
+    host: paypal.eightfold.ai
+- id: visa
+  name: Visa
+  sector: Big Tech / Global Software
+  careers_url: https://www.visa.com.au/careers.html
+  ats:
+    type: workday
+    tenant: visa
+    wd: wd5
+    site: Visa
+- id: mastercard
+  name: Mastercard
+  sector: Big Tech / Global Software
+  careers_url: https://careers.mastercard.com/
+  ats:
+    type: workday
+    tenant: mastercard
+    wd: wd1
+    site: CorporateCareers
+- id: wise
+  name: Wise
+  sector: Big Tech / Global Software
+  careers_url: https://wise.jobs/
+  ats:
+    type: smartrecruiters
+    slug: wise
+- id: airwallex
+  name: Airwallex
+  sector: Big Tech / Global Software
+  careers_url: https://www.airwallex.com/careers
+  ats:
+    type: ashby
+    slug: airwallex
+- id: doordash
+  name: DoorDash
+  sector: Big Tech / Global Software
+  careers_url: https://careers.doordash.com/
+  ats: null
+- id: zoom
+  name: Zoom
+  sector: Big Tech / Global Software
+  careers_url: https://careers.zoom.us/
+  ats:
+    type: workday
+    tenant: zoom
+    wd: wd5
+    site: Zoom
+- id: xero
+  name: Xero
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.xero.com/about/careers/
+  ats:
+    type: ashby
+    slug: xero
+- id: myob
+  name: MYOB
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.myob.com/au/about/careers
+  ats: null
+- id: rea-group
+  name: REA Group
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.rea-group.com/careers/
+  ats: null
+- id: domain-group
+  name: Domain Group
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.domain.com.au/group/careers/
+  ats: null
+  enabled: false
+  manual_reason: Careers page has moved
+- id: seek
+  name: SEEK
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.seek.com.au/about/careers/
+  ats:
+    type: smartrecruiters
+    slug: seek
+- id: culture-amp
+  name: Culture Amp
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.cultureamp.com/careers
+  ats:
+    type: greenhouse
+    slug: cultureamp
+- id: linktree
+  name: Linktree
+  sector: Australian Software / Scale-ups
+  careers_url: https://linktr.ee/s/about/careers/
+  ats: null
+- id: safetyculture
+  name: SafetyCulture
+  sector: Australian Software / Scale-ups
+  careers_url: https://safetyculture.com/careers/
+  ats:
+    type: ashby
+    slug: mitti
+- id: employment-hero
+  name: Employment Hero
+  sector: Australian Software / Scale-ups
+  careers_url: https://employmenthero.com/careers/
+  ats: null
+- id: deputy
+  name: Deputy
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.deputy.com/careers
+  ats:
+    type: lever
+    slug: deputy
+- id: octopus-deploy
+  name: Octopus Deploy
+  sector: Australian Software / Scale-ups
+  careers_url: https://octopus.com/company/careers
+  ats:
+    type: greenhouse
+    slug: octopusdeploy
+- id: iress
+  name: Iress
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.iress.com/careers/
+  ats: null
+- id: technology-one
+  name: Technology One
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.technologyonecorp.com/careers
+  ats: null
+- id: wisetech-global
+  name: WiseTech Global
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.wisetechglobal.com/careers/
+  ats: null
+- id: altium
+  name: Altium
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.altium.com/company/careers
+  ats: null
+- id: appen
+  name: Appen
+  sector: Australian Software / Scale-ups
+  careers_url: https://appen.com/careers/
+  ats:
+    type: lever
+    slug: appen
+- id: nuix
+  name: Nuix
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.nuix.com/careers
+  ats: null
+- id: megaport
+  name: Megaport
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.megaport.com/careers/
+  ats:
+    type: lever
+    slug: megaport
+- id: airtasker
+  name: Airtasker
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.airtasker.com/careers/
+  ats: null
+- id: carsales
+  name: carsales
+  sector: Australian Software / Scale-ups
+  careers_url: https://careers.carsales.com.au/
+  ats:
+    type: smartrecruiters
+    slug: carsales
+- id: tyro-payments
+  name: Tyro Payments
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.tyro.com/careers/
+  ats: null
+- id: zip-co
+  name: Zip Co
+  sector: Australian Software / Scale-ups
+  careers_url: https://zip.co/careers
+  ats: null
+- id: pexa
+  name: PEXA
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.pexa.com.au/careers/
+  ats:
+    type: lever
+    slug: pexa
+- id: judo-bank
+  name: Judo Bank
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.judo.bank/careers
+  ats:
+    type: smartrecruiters
+    slug: judobank
+- id: rokt
+  name: Rokt
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.rokt.com/careers
+  ats: null
+- id: harrison-ai
+  name: Harrison.ai
+  sector: Australian Software / Scale-ups
+  careers_url: https://harrison.ai/careers
+  ats:
+    type: ashby
+    slug: Harrison.ai
+- id: immutable
+  name: Immutable
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.immutable.com/careers
+  ats:
+    type: lever
+    slug: immutable
+- id: heidi-health
+  name: Heidi Health
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.heidihealth.com/careers
+  ats:
+    type: ashby
+    slug: heidihealth.com.au
+- id: dovetail
+  name: Dovetail
+  sector: Australian Software / Scale-ups
+  careers_url: https://dovetail.com/careers/
+  ats:
+    type: ashby
+    slug: dovetail
+- id: siteminder
+  name: SiteMinder
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.siteminder.com/careers/
+  ats:
+    type: ashby
+    slug: SiteMinder
+- id: nearmap
+  name: Nearmap
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.nearmap.com/au/en/careers
+  ats:
+    type: smartrecruiters
+    slug: nearmap
+- id: catapult-sports
+  name: Catapult Sports
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.catapult.com/careers
+  ats:
+    type: greenhouse
+    slug: catapultsports
+- id: hipages
+  name: hipages
+  sector: Australian Software / Scale-ups
+  careers_url: https://hipages.com.au/careers
+  ats:
+    type: greenhouse
+    slug: hipagesgroup
+- id: lendi-group
+  name: Lendi Group
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.lendi.com.au/careers
+  ats: null
+- id: prospa
+  name: Prospa
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.prospa.com/careers
+  ats:
+    type: greenhouse
+    slug: prospa
+- id: whispir
+  name: Whispir
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.whispir.com/careers/
+  ats: null
+- id: tanda
+  name: Tanda
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.tanda.co/careers
+  ats: null
+- id: mantel-group
+  name: Mantel Group
+  sector: Australian Software / Scale-ups
+  careers_url: https://mantelgroup.com.au/careers/
+  ats: null
+- id: instaclustr
+  name: Instaclustr (NetApp)
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.instaclustr.com/company/careers/
+  ats:
+    type: eightfold
+    host: netapp.eightfold.ai
+- id: gentrack
+  name: Gentrack
+  sector: Australian Software / Scale-ups
+  careers_url: https://gentrack.com/careers/
+  ats: null
+- id: bigtincan
+  name: Bigtincan
+  sector: Australian Software / Scale-ups
+  careers_url: https://www.bigtincan.com/careers/
+  ats:
+    type: smartrecruiters
+    slug: bigtincan
+- id: ferocia
+  name: Ferocia (Up)
+  sector: Australian Software / Scale-ups
+  careers_url: https://ferocia.com.au/careers
+  ats:
+    type: ashby
+    slug: ferocia
+- id: brighte
+  name: Brighte
+  sector: Australian Software / Scale-ups
+  careers_url: https://brighte.com.au/careers/
+  ats:
+    type: lever
+    slug: brighte
+- id: quantium
+  name: Quantium
+  sector: Australian Software / Scale-ups
+  careers_url: https://quantium.com/careers/
+  ats:
+    type: greenhouse
+    slug: quantium
+- id: commonwealth-bank
+  name: Commonwealth Bank
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.commbank.com.au/about-us/careers.html
+  ats:
+    type: workday
+    tenant: cba
+    wd: wd3
+    site: CommBank_Careers
+- id: westpac-group
+  name: Westpac Group
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.westpac.com.au/about-westpac/careers/
+  ats:
+    type: oracle_hcm
+    host: ebuu.fa.ap1.oraclecloud.com
+    site: CX
+- id: anz
+  name: ANZ
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.anz.com.au/about-us/careers/
+  ats:
+    type: successfactors
+    host: career10.successfactors.com
+    company: anzbanking
+- id: nab
+  name: NAB
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.nab.com.au/about-us/careers
+  ats:
+    type: eightfold
+    host: nab.eightfold.ai
+- id: macquarie-group
+  name: Macquarie Group
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.macquarie.com/au/en/careers.html
+  ats:
+    type: llm
+    search_url: https://recruitment.macquarie.com/en_US/careers
+- id: suncorp
+  name: Suncorp
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.suncorpgroup.com.au/careers
+  ats: null
+- id: ing-australia
+  name: ING Australia
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.ing.com.au/about-us/careers
+  ats: null
+- id: bendigo-and-adelaide-bank
+  name: Bendigo and Adelaide Bank
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.bendigoadelaide.com.au/careers/
+  ats: null
+- id: boq-group
+  name: BOQ Group
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.boq.com.au/about-us/careers
+  ats: null
+- id: hsbc-australia
+  name: HSBC Australia
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.hsbc.com.au/about-us/careers/
+  ats: null
+- id: citi-australia
+  name: Citi Australia
+  sector: Banking / Finance / Insurance
+  careers_url: https://jobs.citi.com/
+  ats:
+    type: workday
+    tenant: citi
+    wd: wd5
+    site: '2'
+- id: ubs
+  name: UBS
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.ubs.com/global/en/careers.html
+  ats: null
+- id: goldman-sachs
+  name: Goldman Sachs
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.goldmansachs.com/careers/
+  ats: null
+- id: morgan-stanley
+  name: Morgan Stanley
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.morganstanley.com/careers
+  ats:
+    type: eightfold
+    host: morganstanley.eightfold.ai
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: j-p-morgan
+  name: J.P. Morgan
+  sector: Banking / Finance / Insurance
+  careers_url: https://careers.jpmorgan.com/
+  ats:
+    type: oracle_hcm
+    host: jpmc.fa.oraclecloud.com
+    site: CX_1001
+- id: amp
+  name: AMP
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.amp.com.au/about-amp/careers
+  ats:
+    type: oracle_hcm
+    host: fa-esow-saasfaprod1.fa.ocs.oraclecloud.com
+    site: CX_1
+- id: qbe
+  name: QBE
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.qbe.com/careers
+  ats: null
+- id: iag
+  name: IAG
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.iag.com.au/careers
+  ats:
+    type: llm
+    search_url: https://careers.iag.com.au/global/en
+- id: medibank
+  name: Medibank
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.medibank.com.au/about/careers/
+  ats: null
+- id: nib
+  name: nib
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.nib.com.au/about-us/careers
+  ats:
+    type: llm
+    search_url: https://www.nib.com.au/careers
+- id: allianz-australia
+  name: Allianz Australia
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.allianz.com.au/about-us/careers
+  ats: null
+- id: latitude-financial
+  name: Latitude Financial
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.latitudefinancial.com.au/careers.html
+  ats: null
+  enabled: false
+  manual_reason: Careers page has moved
+- id: australiansuper
+  name: AustralianSuper
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.australiansuper.com/about-us/careers
+  ats: null
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: aware-super
+  name: Aware Super
+  sector: Banking / Finance / Insurance
+  careers_url: https://aware.com.au/about-us/careers
+  ats: null
+- id: unisuper
+  name: UniSuper
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.unisuper.com.au/about-us/careers
+  ats:
+    type: oracle_hcm
+    host: fa-eugn-saasfaprod1.fa.ocs.oraclecloud.com
+    site: CX_1
+- id: equifax-australia
+  name: Equifax Australia
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.equifax.com.au/careers
+  ats: null
+- id: illion
+  name: illion
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.illion.com.au/careers
+  ats: null
+- id: asx
+  name: ASX
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.asx.com.au/about/careers
+  ats:
+    type: workday
+    tenant: asx
+    wd: wd105
+    site: ASX_Careers
+- id: computershare
+  name: Computershare
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.computershare.com/au/careers
+  ats: null
+  enabled: false
+  manual_reason: Site unreachable from the scraper
+- id: zurich-australia
+  name: Zurich Australia
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.zurich.com.au/about-us/careers
+  ats: null
+- id: vanguard-australia
+  name: Vanguard Australia
+  sector: Banking / Finance / Insurance
+  careers_url: https://www.vanguard.com.au/corporate/about-us/careers
+  ats: null
+- id: blackrock
+  name: BlackRock
+  sector: Banking / Finance / Insurance
+  careers_url: https://careers.blackrock.com/
+  ats: null
+- id: optiver
+  name: Optiver
+  sector: Trading / Quant
+  careers_url: https://optiver.com/working-at-optiver/career-opportunities/
+  ats: null
+- id: imc-trading
+  name: IMC Trading
+  sector: Trading / Quant
+  careers_url: https://careers.imc.com/
+  ats:
+    type: greenhouse
+    slug: imc
+- id: citadel-securities
+  name: Citadel Securities
+  sector: Trading / Quant
+  careers_url: https://www.citadelsecurities.com/careers/
+  ats: null
+- id: jump-trading
+  name: Jump Trading
+  sector: Trading / Quant
+  careers_url: https://www.jumptrading.com/careers
+  ats:
+    type: greenhouse
+    slug: jumptrading
+- id: akuna-capital
+  name: Akuna Capital
+  sector: Trading / Quant
+  careers_url: https://akunacapital.com/careers
+  ats:
+    type: greenhouse
+    slug: akunacapital
+- id: accenture
+  name: Accenture
+  sector: Consulting / IT Services
+  careers_url: https://www.accenture.com/au-en/careers
+  ats:
+    type: workday
+    tenant: accenture
+    wd: wd103
+    site: AccentureCareers
+- id: deloitte
+  name: Deloitte
+  sector: Consulting / IT Services
+  careers_url: https://www.deloitte.com/au/en/careers.html
+  ats: null
+- id: pwc-australia
+  name: PwC Australia
+  sector: Consulting / IT Services
+  careers_url: https://www.pwc.com.au/careers.html
+  ats: null
+- id: ey
+  name: EY
+  sector: Consulting / IT Services
+  careers_url: https://www.ey.com/en_au/careers
+  ats: null
+- id: kpmg-australia
+  name: KPMG Australia
+  sector: Consulting / IT Services
+  careers_url: https://kpmg.com/au/en/home/careers.html
+  ats: null
+- id: mckinsey
+  name: McKinsey (QuantumBlack)
+  sector: Consulting / IT Services
+  careers_url: https://www.mckinsey.com/careers
+  ats: null
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: bcg
+  name: BCG (BCG X)
+  sector: Consulting / IT Services
+  careers_url: https://careers.bcg.com/
+  ats:
+    type: eightfold
+    host: bcg.eightfold.ai
+- id: bain-company
+  name: Bain & Company
+  sector: Consulting / IT Services
+  careers_url: https://www.bain.com/careers/
+  ats: null
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: capgemini
+  name: Capgemini
+  sector: Consulting / IT Services
+  careers_url: https://www.capgemini.com/au-en/careers/
+  ats: null
+- id: infosys
+  name: Infosys
+  sector: Consulting / IT Services
+  careers_url: https://www.infosys.com/careers/
+  ats: null
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: tcs
+  name: TCS
+  sector: Consulting / IT Services
+  careers_url: https://www.tcs.com/careers
+  ats: null
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: wipro
+  name: Wipro
+  sector: Consulting / IT Services
+  careers_url: https://careers.wipro.com/
+  ats: null
+- id: cognizant
+  name: Cognizant
+  sector: Consulting / IT Services
+  careers_url: https://careers.cognizant.com/
+  ats: null
+- id: hcltech
+  name: HCLTech
+  sector: Consulting / IT Services
+  careers_url: https://www.hcltech.com/careers
+  ats: null
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: tech-mahindra
+  name: Tech Mahindra
+  sector: Consulting / IT Services
+  careers_url: https://careers.techmahindra.com/
+  ats: null
+- id: dxc-technology
+  name: DXC Technology
+  sector: Consulting / IT Services
+  careers_url: https://dxc.com/au/en/careers
+  ats: null
+- id: fujitsu-australia
+  name: Fujitsu Australia
+  sector: Consulting / IT Services
+  careers_url: https://www.fujitsu.com/au/about/careers/
+  ats: null
+- id: ntt-data
+  name: NTT DATA
+  sector: Consulting / IT Services
+  careers_url: https://www.nttdata.com/global/en/careers
+  ats: null
+- id: thoughtworks
+  name: Thoughtworks
+  sector: Consulting / IT Services
+  careers_url: https://www.thoughtworks.com/careers
+  ats:
+    type: greenhouse
+    slug: thoughtworks
+- id: slalom
+  name: Slalom
+  sector: Consulting / IT Services
+  careers_url: https://www.slalom.com/us/en/careers
+  ats: null
+- id: versent
+  name: Versent
+  sector: Consulting / IT Services
+  careers_url: https://www.versent.com.au/careers/
+  ats:
+    type: smartrecruiters
+    slug: versent
+- id: datacom
+  name: Datacom
+  sector: Consulting / IT Services
+  careers_url: https://datacom.com/au/en/careers
+  ats: null
+- id: data-3
+  name: Data#3
+  sector: Consulting / IT Services
+  careers_url: https://www.data3.com/about-us/careers/
+  ats: null
+- id: atos
+  name: Atos
+  sector: Consulting / IT Services
+  careers_url: https://atos.net/en/careers
+  ats: null
+- id: kyndryl
+  name: Kyndryl
+  sector: Consulting / IT Services
+  careers_url: https://www.kyndryl.com/au/en/about-us/careers
+  ats:
+    type: workday
+    tenant: kyndryl
+    wd: wd5
+    site: KyndrylEarlyCareers
+- id: cgi
+  name: CGI
+  sector: Consulting / IT Services
+  careers_url: https://www.cgi.com/en/careers
+  ats: null
+- id: cybercx
+  name: CyberCX
+  sector: Consulting / IT Services
+  careers_url: https://cybercx.com.au/careers/
+  ats: null
+- id: leidos-australia
+  name: Leidos Australia
+  sector: Defence / Aerospace
+  careers_url: https://www.leidos.com/careers
+  ats:
+    type: workday
+    tenant: leidos
+    wd: wd5
+    site: External
+- id: bae-systems-australia
+  name: BAE Systems Australia
+  sector: Defence / Aerospace
+  careers_url: https://www.baesystems.com/en-aus/careers
+  ats: null
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: rtx-raytheon-australia
+  name: RTX / Raytheon Australia
+  sector: Defence / Aerospace
+  careers_url: https://www.rtx.com/careers
+  ats:
+    type: workday
+    tenant: globalhr
+    wd: wd5
+    site: REC_RTX_Ext_Gateway
+- id: lockheed-martin-australia
+  name: Lockheed Martin Australia
+  sector: Defence / Aerospace
+  careers_url: https://www.lockheedmartin.com/en-au/careers.html
+  ats:
+    type: eightfold
+    host: lockheedmartin.eightfold.ai
+- id: northrop-grumman-australia
+  name: Northrop Grumman Australia
+  sector: Defence / Aerospace
+  careers_url: https://www.northropgrumman.com/careers
+  ats:
+    type: eightfold
+    host: ngc.eightfold.ai
+- id: boeing-australia
+  name: Boeing Australia
+  sector: Defence / Aerospace
+  careers_url: https://jobs.boeing.com/
+  ats:
+    type: workday
+    tenant: boeing
+    wd: wd1
+    site: EXTERNAL_CAREERS
+- id: anduril-australia
+  name: Anduril Australia
+  sector: Defence / Aerospace
+  careers_url: https://www.anduril.com/careers
+  ats:
+    type: greenhouse
+    slug: andurilindustries
+- id: telstra
+  name: Telstra
+  sector: Telco / Infrastructure
+  careers_url: https://www.telstra.com.au/aboutus/careers
+  ats: null
+- id: optus
+  name: Optus
+  sector: Telco / Infrastructure
+  careers_url: https://www.optus.com.au/about/careers
+  ats: null
+  enabled: false
+  manual_reason: Blocks automated checks
+- id: tpg-telecom
+  name: TPG Telecom
+  sector: Telco / Infrastructure
+  careers_url: https://www.tpgtelecom.com.au/careers
+  ats:
+    type: oracle_hcm
+    host: fa-ewlx-saasfaprod1.fa.ocs.oraclecloud.com
+    site: CX_1
+- id: aussie-broadband
+  name: Aussie Broadband
+  sector: Telco / Infrastructure
+  careers_url: https://www.aussiebroadband.com.au/about-us/careers/
+  ats: null
+- id: nbn-co
+  name: NBN Co
+  sector: Telco / Infrastructure
+  careers_url: https://www.nbnco.com.au/corporate-information/about-nbn-co/careers
+  ats: null
+- id: vocus
+  name: Vocus
+  sector: Telco / Infrastructure
+  careers_url: https://www.vocus.com.au/about-us/careers
+  ats: null
+- id: superloop
+  name: Superloop
+  sector: Telco / Infrastructure
+  careers_url: https://www.superloop.com/careers/
+  ats: null
+- id: nextdc
+  name: NEXTDC
+  sector: Telco / Infrastructure
+  careers_url: https://www.nextdc.com/careers
+  ats:
+    type: smartrecruiters
+    slug: NEXTDC
+- id: airtrunk
+  name: AirTrunk
+  sector: Telco / Infrastructure
+  careers_url: https://airtrunk.com/careers/
+  ats:
+    type: greenhouse
+    slug: airtrunk
+- id: macquarie-technology-group
+  name: Macquarie Technology Group
+  sector: Telco / Infrastructure
+  careers_url: https://macquarietechnologygroup.com/careers
+  ats: null
+- id: australian-taxation-office
+  name: Australian Taxation Office
+  sector: Government / Research
+  careers_url: https://www.ato.gov.au/about-ato/careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Australian%20Taxation%20Office
+- id: services-australia
+  name: Services Australia
+  sector: Government / Research
+  careers_url: https://www.servicesaustralia.gov.au/careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Services%20Australia
+- id: australian-bureau-of-statistics
+  name: Australian Bureau of Statistics
+  sector: Government / Research
+  careers_url: https://www.abs.gov.au/about/careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Australian%20Bureau%20of%20Statistics
+- id: csiro-data61
+  name: CSIRO / Data61
+  sector: Government / Research
+  careers_url: https://www.csiro.au/en/careers
+  ats: null
+- id: department-of-defence
+  name: Department of Defence
+  sector: Government / Research
+  careers_url: https://www.defence.gov.au/jobs-careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Department%20of%20Defence
+- id: australian-signals-directorate
+  name: Australian Signals Directorate
+  sector: Government / Research
+  careers_url: https://www.asd.gov.au/careers
+  ats: null
+- id: department-of-home-affairs
+  name: Department of Home Affairs
+  sector: Government / Research
+  careers_url: https://www.homeaffairs.gov.au/about-us/careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Home%20Affairs
+- id: bureau-of-meteorology
+  name: Bureau of Meteorology
+  sector: Government / Research
+  careers_url: https://www.bom.gov.au/about/careers/
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Bureau%20of%20Meteorology
+- id: reserve-bank-of-australia
+  name: Reserve Bank of Australia
+  sector: Government / Research
+  careers_url: https://www.rba.gov.au/careers/
+  ats:
+    type: workday
+    tenant: rba
+    wd: wd105
+    site: RBA_Careers
+- id: asic
+  name: ASIC
+  sector: Government / Research
+  careers_url: https://asic.gov.au/about-asic/careers-at-asic/
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Australian%20Securities%20and%20Investments%20Commission
+- id: apra
+  name: APRA
+  sector: Government / Research
+  careers_url: https://www.apra.gov.au/careers
+  ats:
+    type: oracle_hcm
+    host: ejkm.fa.ap1.oraclecloud.com
+    site: CX_1
+- id: treasury
+  name: Treasury
+  sector: Government / Research
+  careers_url: https://treasury.gov.au/careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Treasury
+- id: digital-transformation-agency
+  name: Digital Transformation Agency
+  sector: Government / Research
+  careers_url: https://www.dta.gov.au/careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Digital%20Transformation%20Agency
+- id: geoscience-australia
+  name: Geoscience Australia
+  sector: Government / Research
+  careers_url: https://www.ga.gov.au/about/careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Geoscience%20Australia
+- id: australian-federal-police
+  name: Australian Federal Police
+  sector: Government / Research
+  careers_url: https://www.afp.gov.au/careers
+  ats: null
+- id: transport-for-nsw
+  name: Transport for NSW
+  sector: Government / Research
+  careers_url: https://www.transport.nsw.gov.au/about-us/careers
+  ats: null
+- id: service-nsw
+  name: Service NSW
+  sector: Government / Research
+  careers_url: https://www.service.nsw.gov.au/careers
+  ats: null
+  enabled: false
+  manual_reason: Careers page has moved
+- id: nsw-health
+  name: NSW Health
+  sector: Government / Research
+  careers_url: https://www.health.nsw.gov.au/careers/
+  ats: null
+- id: victorian-government
+  name: Victorian Government
+  sector: Government / Research
+  careers_url: https://careers.vic.gov.au/
+  ats: null
+- id: queensland-government
+  name: Queensland Government
+  sector: Government / Research
+  careers_url: https://smartjobs.qld.gov.au/
+  ats: null
+- id: wa-government
+  name: WA Government
+  sector: Government / Research
+  careers_url: https://search.jobs.wa.gov.au/
+  ats: null
+- id: australia-post
+  name: Australia Post
+  sector: Government / Research
+  careers_url: https://auspost.com.au/careers
+  ats: null
+- id: dstg
+  name: DSTG (Defence Science & Tech)
+  sector: Government / Research
+  careers_url: https://www.dst.defence.gov.au/careers
+  ats:
+    type: llm
+    search_url: https://www.apsjobs.gov.au/s/job-search?searchString=Defence%20Science%20and%20Technology
+- id: cochlear
+  name: Cochlear
+  sector: Health / Biotech / Medtech
+  careers_url: https://www.cochlear.com/au/en/corporate/careers
+  ats: null
+- id: resmed
+  name: ResMed
+  sector: Health / Biotech / Medtech
+  careers_url: https://www.resmed.com/en-au/careers/
+  ats:
+    type: workday
+    tenant: resmed
+    wd: wd3
+    site: ResMed_External_Careers
+- id: pro-medicus
+  name: Pro Medicus
+  sector: Health / Biotech / Medtech
+  careers_url: https://www.promedicus.com/careers
+  ats: null
+  enabled: false
+  manual_reason: Careers page has moved
+- id: agl
+  name: AGL
+  sector: Energy / Resources / Infrastructure
+  careers_url: https://www.agl.com.au/about-agl/careers
+  ats:
+    type: workday
+    tenant: agl
+    wd: wd3
+    site: AGL_Recruitment
+- id: origin-energy
+  name: Origin Energy
+  sector: Energy / Resources / Infrastructure
+  careers_url: https://www.originenergy.com.au/about/careers/
+  ats: null
+  enabled: false
+  manual_reason: Careers page has moved
+- id: transurban
+  name: Transurban
+  sector: Energy / Resources / Infrastructure
+  careers_url: https://www.transurban.com/careers
+  ats:
+    type: workday
+    tenant: transurban
+    wd: wd3
+    site: TU_AU
+- id: rio-tinto
+  name: Rio Tinto
+  sector: Energy / Resources / Infrastructure
+  careers_url: https://www.riotinto.com/en/careers
+  ats: null
+- id: bhp
+  name: BHP
+  sector: Energy / Resources / Infrastructure
+  careers_url: https://www.bhp.com/careers
+  ats:
+    type: llm
+    search_url: https://careers.bhp.com/
+- id: fortescue
+  name: Fortescue
+  sector: Energy / Resources / Infrastructure
+  careers_url: https://www.fortescue.com/en/careers
+  ats: null
+- id: woodside-energy
+  name: Woodside Energy
+  sector: Energy / Resources / Infrastructure
+  careers_url: https://www.woodside.com/careers
+  ats: null
