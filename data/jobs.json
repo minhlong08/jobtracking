@@ -2,6 +2,22 @@
  "baseline_date": "2026-10-10",
  "jobs": [
   {
+   "id": "5c0db82ceb4b5798",
+   "company_id": "heidi-health",
+   "company": "Heidi Health",
+   "sector": "Australian Software / Scale-ups",
+   "title": "2026/2027 Software Engineering Intern Program (Heidi Launch Lab)",
+   "url": "https://jobs.ashbyhq.com/heidihealth.com.au/6e7f0482-3ac0-4805-9124-ff638de04a7e",
+   "location": "Melbourne, Sydney, Australia",
+   "level": "Intern",
+   "category": "Software",
+   "posted_at": "2026-09-29",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "missed_runs": 0,
+   "closed": false
+  },
+  {
    "id": "0d33ba1a2dc8b91f",
    "company_id": "seek",
    "company": "SEEK",
@@ -13,7 +29,7 @@
    "category": "Software",
    "posted_at": "2026-09-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -30,7 +46,7 @@
    "category": "Software",
    "posted_at": "2026-10-02",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -47,7 +63,7 @@
    "category": "Software",
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -64,7 +80,7 @@
    "category": "ML/AI",
    "posted_at": "2026-08-24",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -81,7 +97,7 @@
    "category": "Infra/Cloud/Security",
    "posted_at": "2026-09-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -98,7 +114,7 @@
    "category": "Software",
    "posted_at": "2026-06-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -115,7 +131,7 @@
    "category": "Software",
    "posted_at": "2026-03-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -132,7 +148,7 @@
    "category": "Software",
    "posted_at": "2026-06-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -149,7 +165,7 @@
    "category": "Software",
    "posted_at": "2024-12-13",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -166,7 +182,7 @@
    "category": "Software",
    "posted_at": "2026-05-14",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -183,7 +199,7 @@
    "category": "Software",
    "posted_at": "2026-09-18",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -200,7 +216,7 @@
    "category": "ML/AI",
    "posted_at": "2026-06-23",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -217,7 +233,7 @@
    "category": "ML/AI",
    "posted_at": "2026-06-26",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -234,7 +250,7 @@
    "category": "Software",
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -251,7 +267,7 @@
    "category": "Infra/Cloud/Security",
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -1099,5 +1115,5 @@
    "reason": "Not tracked yet (needs an Anthropic API key)"
   }
  ],
- "updated_at": "2026-10-14T10:40+11:00"
+ "updated_at": "2026-10-15T10:03+11:00"
 }
