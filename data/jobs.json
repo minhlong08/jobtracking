@@ -2,6 +2,22 @@
  "baseline_date": "2026-10-10",
  "jobs": [
   {
+   "id": "945c2ac0988e691b",
+   "company_id": "amazon-aws",
+   "company": "Amazon / AWS",
+   "sector": "Big Tech / Global Software",
+   "title": "Network Development Engineer Intern, Core Networking",
+   "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
+   "location": "Sydney, New South Wales, Australia",
+   "level": "Intern",
+   "category": "Software",
+   "posted_at": "2026-03-11",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "missed_runs": 0,
+   "closed": false
+  },
+  {
    "id": "5c0db82ceb4b5798",
    "company_id": "heidi-health",
    "company": "Heidi Health",
@@ -13,7 +29,7 @@
    "category": "Software",
    "posted_at": "2026-09-29",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false
   },
@@ -29,7 +45,7 @@
    "category": "Software",
    "posted_at": "2026-09-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -46,7 +62,7 @@
    "category": "Software",
    "posted_at": "2026-10-02",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -63,7 +79,7 @@
    "category": "Software",
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -73,14 +89,14 @@
    "company_id": "imc-trading",
    "company": "IMC Trading",
    "sector": "Trading / Quant",
-   "title": "Machine Learning Research Intern - Summer 2027 - Sydney",
+   "title": "Deep Learning Research Intern - 2027 - Sydney",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101",
    "location": "Sydney, Australia",
    "level": "Intern",
    "category": "ML/AI",
    "posted_at": "2026-08-24",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -97,7 +113,7 @@
    "category": "Infra/Cloud/Security",
    "posted_at": "2026-09-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -114,7 +130,7 @@
    "category": "Software",
    "posted_at": "2026-06-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -131,7 +147,7 @@
    "category": "Software",
    "posted_at": "2026-03-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -148,7 +164,7 @@
    "category": "Software",
    "posted_at": "2026-06-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -165,7 +181,7 @@
    "category": "Software",
    "posted_at": "2024-12-13",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -182,7 +198,7 @@
    "category": "Software",
    "posted_at": "2026-05-14",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -199,7 +215,7 @@
    "category": "Software",
    "posted_at": "2026-09-18",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -216,7 +232,7 @@
    "category": "ML/AI",
    "posted_at": "2026-06-23",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -233,7 +249,7 @@
    "category": "ML/AI",
    "posted_at": "2026-06-26",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -250,7 +266,7 @@
    "category": "Software",
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -267,7 +283,7 @@
    "category": "Infra/Cloud/Security",
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -1115,5 +1131,5 @@
    "reason": "Not tracked yet (needs an Anthropic API key)"
   }
  ],
- "updated_at": "2026-10-15T10:03+11:00"
+ "updated_at": "2026-10-16T09:57+11:00"
 }
