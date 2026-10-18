@@ -2,41 +2,41 @@
  "accenture": {
   "name": "Accenture",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 25.1,
+  "last_run": "2026-10-19",
+  "seconds": 23.2,
   "status": "ok",
   "error": null,
-  "raw": 284,
+  "raw": 285,
   "matched": 2,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "adobe": {
   "name": "Adobe",
   "source": "workday",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 1.3,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "agl": {
   "name": "AGL",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 6.4,
+  "last_run": "2026-10-19",
+  "seconds": 5.7,
   "status": "ok",
   "error": null,
   "raw": 5,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "airtasker": {
   "name": "Airtasker",
@@ -49,41 +49,41 @@
  "airtrunk": {
   "name": "AirTrunk",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 69,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "airwallex": {
   "name": "Airwallex",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 496,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "akuna-capital": {
   "name": "Akuna Capital",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 40,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "allianz-australia": {
   "name": "Allianz Australia",
@@ -104,41 +104,41 @@
  "amazon-aws": {
   "name": "Amazon / AWS",
   "source": "amazon",
-  "last_run": "2026-10-18",
-  "seconds": 2.7,
+  "last_run": "2026-10-19",
+  "seconds": 2.0,
   "status": "ok",
   "error": null,
   "raw": 27,
   "matched": 8,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "amp": {
   "name": "AMP",
   "source": "oracle_hcm",
-  "last_run": "2026-10-18",
-  "seconds": 4.4,
+  "last_run": "2026-10-19",
+  "seconds": 3.7,
   "status": "ok",
   "error": null,
   "raw": 11,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "anduril-australia": {
   "name": "Anduril Australia",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.2,
   "status": "ok",
   "error": null,
-  "raw": 2536,
+  "raw": 2532,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "anz": {
   "name": "ANZ",
@@ -151,15 +151,15 @@
  "appen": {
   "name": "Appen",
   "source": "lever",
-  "last_run": "2026-10-18",
-  "seconds": 0.6,
+  "last_run": "2026-10-19",
+  "seconds": 1.5,
   "status": "ok",
   "error": null,
   "raw": 60,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "apple": {
   "name": "Apple",
@@ -172,15 +172,15 @@
  "apra": {
   "name": "APRA",
   "source": "oracle_hcm",
-  "last_run": "2026-10-18",
-  "seconds": 3.9,
+  "last_run": "2026-10-19",
+  "seconds": 3.6,
   "status": "ok",
   "error": null,
-  "raw": 5,
+  "raw": 3,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "asic": {
   "name": "ASIC",
@@ -193,28 +193,28 @@
  "asx": {
   "name": "ASX",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 6.9,
+  "last_run": "2026-10-19",
+  "seconds": 19.3,
   "status": "ok",
   "error": null,
   "raw": 51,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "atlassian": {
   "name": "Atlassian",
   "source": "atlassian",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.3,
   "status": "ok",
   "error": null,
-  "raw": 349,
+  "raw": 351,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "atos": {
   "name": "Atos",
@@ -307,15 +307,15 @@
  "bigtincan": {
   "name": "Bigtincan",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 1,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "blackrock": {
   "name": "BlackRock",
@@ -328,28 +328,28 @@
  "block": {
   "name": "Block (Afterpay / Square)",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 221,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "boeing-australia": {
   "name": "Boeing Australia",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 1.8,
+  "last_run": "2026-10-19",
+  "seconds": 1.7,
   "status": "ok",
   "error": null,
   "raw": 1,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "booking-com": {
   "name": "Booking.com",
@@ -370,15 +370,15 @@
  "brighte": {
   "name": "Brighte",
   "source": "lever",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "bureau-of-meteorology": {
   "name": "Bureau of Meteorology",
@@ -391,15 +391,15 @@
  "canva": {
   "name": "Canva",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
-  "seconds": 0.7,
+  "last_run": "2026-10-19",
+  "seconds": 0.8,
   "status": "ok",
   "error": null,
   "raw": 30,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "capgemini": {
   "name": "Capgemini",
@@ -412,28 +412,28 @@
  "carsales": {
   "name": "carsales",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
-  "seconds": 0.5,
+  "last_run": "2026-10-19",
+  "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 33,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "catapult-sports": {
   "name": "Catapult Sports",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
-  "seconds": 0.0,
+  "last_run": "2026-10-19",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 23,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "cgi": {
   "name": "CGI",
@@ -446,15 +446,15 @@
  "cisco": {
   "name": "Cisco",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 15.0,
+  "last_run": "2026-10-19",
+  "seconds": 12.1,
   "status": "ok",
   "error": null,
-  "raw": 339,
+  "raw": 337,
   "matched": 1,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "citadel-securities": {
   "name": "Citadel Securities",
@@ -467,15 +467,15 @@
  "citi-australia": {
   "name": "Citi Australia",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 3.6,
+  "last_run": "2026-10-19",
+  "seconds": 3.7,
   "status": "ok",
   "error": null,
   "raw": 25,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "cochlear": {
   "name": "Cochlear",
@@ -496,28 +496,28 @@
  "commonwealth-bank": {
   "name": "Commonwealth Bank",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 4.8,
+  "last_run": "2026-10-19",
+  "seconds": 4.9,
   "status": "ok",
   "error": null,
-  "raw": 118,
+  "raw": 112,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 1.1,
+  "last_run": "2026-10-19",
+  "seconds": 1.0,
   "status": "ok",
   "error": null,
   "raw": 9,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "csiro-data61": {
   "name": "CSIRO / Data61",
@@ -530,15 +530,15 @@
  "culture-amp": {
   "name": "Culture Amp",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 31,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "cybercx": {
   "name": "CyberCX",
@@ -559,15 +559,15 @@
  "databricks": {
   "name": "Databricks",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.2,
   "status": "ok",
   "error": null,
   "raw": 898,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "datacom": {
   "name": "Datacom",
@@ -580,28 +580,28 @@
  "datadog": {
   "name": "Datadog",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 433,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "dell-technologies": {
   "name": "Dell Technologies",
   "source": "oracle_hcm",
-  "last_run": "2026-10-18",
-  "seconds": 6.3,
+  "last_run": "2026-10-19",
+  "seconds": 5.7,
   "status": "ok",
   "error": null,
-  "raw": 186,
+  "raw": 184,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "deloitte": {
   "name": "Deloitte",
@@ -630,15 +630,15 @@
  "deputy": {
   "name": "Deputy",
   "source": "lever",
-  "last_run": "2026-10-18",
-  "seconds": 5.5,
+  "last_run": "2026-10-19",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 6,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "digital-transformation-agency": {
   "name": "Digital Transformation Agency",
@@ -659,28 +659,28 @@
  "dovetail": {
   "name": "Dovetail",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 9,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "dropbox": {
   "name": "Dropbox",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
-  "seconds": 0.0,
+  "last_run": "2026-10-19",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 18,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "dstg": {
   "name": "DSTG (Defence Science & Tech)",
@@ -701,15 +701,15 @@
  "elastic": {
   "name": "Elastic",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 380,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "employment-hero": {
   "name": "Employment Hero",
@@ -730,15 +730,15 @@
  "expedia-group": {
   "name": "Expedia Group",
   "source": "workday",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 3.7,
   "status": "ok",
   "error": null,
-  "raw": 107,
+  "raw": 104,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "ey": {
   "name": "EY",
@@ -751,15 +751,15 @@
  "ferocia": {
   "name": "Ferocia (Up)",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "fortescue": {
   "name": "Fortescue",
@@ -812,54 +812,54 @@
  "harrison-ai": {
   "name": "Harrison.ai",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 7,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "heidi-health": {
   "name": "Heidi Health",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 84,
   "matched": 1,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "hipages": {
   "name": "hipages",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 6,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "hp": {
   "name": "HP",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 1.7,
+  "last_run": "2026-10-19",
+  "seconds": 1.5,
   "status": "ok",
   "error": null,
   "raw": 1,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "hsbc-australia": {
   "name": "HSBC Australia",
@@ -904,28 +904,28 @@
  "imc-trading": {
   "name": "IMC Trading",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 172,
   "matched": 1,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "immutable": {
   "name": "Immutable",
   "source": "lever",
-  "last_run": "2026-10-18",
-  "seconds": 0.6,
+  "last_run": "2026-10-19",
+  "seconds": 0.7,
   "status": "ok",
   "error": null,
   "raw": 4,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "ing-australia": {
   "name": "ING Australia",
@@ -954,41 +954,41 @@
  "j-p-morgan": {
   "name": "J.P. Morgan",
   "source": "oracle_hcm",
-  "last_run": "2026-10-18",
-  "seconds": 24.2,
+  "last_run": "2026-10-19",
+  "seconds": 24.3,
   "status": "ok",
   "error": null,
-  "raw": 1001,
+  "raw": 1002,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "judo-bank": {
   "name": "Judo Bank",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.7,
   "status": "ok",
   "error": null,
-  "raw": 24,
+  "raw": 25,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "jump-trading": {
   "name": "Jump Trading",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 101,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "kpmg-australia": {
   "name": "KPMG Australia",
@@ -1001,28 +1001,28 @@
  "kyndryl": {
   "name": "Kyndryl",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 14.1,
+  "last_run": "2026-10-19",
+  "seconds": 14.8,
   "status": "ok",
   "error": null,
   "raw": 39,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "leidos-australia": {
   "name": "Leidos Australia",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 5.9,
+  "last_run": "2026-10-19",
+  "seconds": 6.1,
   "status": "ok",
   "error": null,
-  "raw": 107,
+  "raw": 106,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "lendi-group": {
   "name": "Lendi Group",
@@ -1075,15 +1075,15 @@
  "mastercard": {
   "name": "Mastercard",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 26.5,
+  "last_run": "2026-10-19",
+  "seconds": 23.9,
   "status": "ok",
   "error": null,
   "raw": 295,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "medibank": {
   "name": "Medibank",
@@ -1096,15 +1096,15 @@
  "megaport": {
   "name": "Megaport",
   "source": "lever",
-  "last_run": "2026-10-18",
-  "seconds": 0.6,
+  "last_run": "2026-10-19",
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 52,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "meta": {
   "name": "Meta",
@@ -1149,28 +1149,28 @@
  "nearmap": {
   "name": "Nearmap",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 15,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "nextdc": {
   "name": "NEXTDC",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
-  "seconds": 0.4,
+  "last_run": "2026-10-19",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 14,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "nib": {
   "name": "nib",
@@ -1215,41 +1215,41 @@
  "nvidia": {
   "name": "NVIDIA",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 31.1,
+  "last_run": "2026-10-19",
+  "seconds": 28.4,
   "status": "ok",
   "error": null,
   "raw": 267,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "octopus-deploy": {
   "name": "Octopus Deploy",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 4,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "okta": {
   "name": "Okta",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 393,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "optiver": {
   "name": "Optiver",
@@ -1270,15 +1270,15 @@
  "palo-alto-networks": {
   "name": "Palo Alto Networks",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 5.8,
+  "last_run": "2026-10-19",
+  "seconds": 5.9,
   "status": "ok",
   "error": null,
   "raw": 233,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "paypal": {
   "name": "PayPal",
@@ -1291,28 +1291,28 @@
  "pexa": {
   "name": "PEXA",
   "source": "lever",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 5,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "prospa": {
   "name": "Prospa",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "pwc-australia": {
   "name": "PwC Australia",
@@ -1333,15 +1333,15 @@
  "quantium": {
   "name": "Quantium",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 38,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "queensland-government": {
   "name": "Queensland Government",
@@ -1362,28 +1362,28 @@
  "reserve-bank-of-australia": {
   "name": "Reserve Bank of Australia",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 6.4,
+  "last_run": "2026-10-19",
+  "seconds": 8.5,
   "status": "ok",
   "error": null,
-  "raw": 21,
+  "raw": 19,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "resmed": {
   "name": "ResMed",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 2.3,
+  "last_run": "2026-10-19",
+  "seconds": 2.7,
   "status": "ok",
   "error": null,
-  "raw": 56,
+  "raw": 57,
   "matched": 2,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "rio-tinto": {
   "name": "Rio Tinto",
@@ -1404,41 +1404,41 @@
  "rtx-raytheon-australia": {
   "name": "RTX / Raytheon Australia",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 12.9,
+  "last_run": "2026-10-19",
+  "seconds": 14.0,
   "status": "ok",
   "error": null,
   "raw": 541,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "safetyculture": {
   "name": "SafetyCulture",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 36,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "salesforce": {
   "name": "Salesforce",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 2.1,
+  "last_run": "2026-10-19",
+  "seconds": 2.4,
   "status": "ok",
   "error": null,
   "raw": 43,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "sap": {
   "name": "SAP",
@@ -1451,28 +1451,28 @@
  "seek": {
   "name": "SEEK",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 15,
   "matched": 1,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "servicenow": {
   "name": "ServiceNow",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 16,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "services-australia": {
   "name": "Services Australia",
@@ -1493,15 +1493,15 @@
  "siteminder": {
   "name": "SiteMinder",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 29,
+  "raw": 24,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "slalom": {
   "name": "Slalom",
@@ -1514,28 +1514,28 @@
  "snowflake": {
   "name": "Snowflake",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 359,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "stripe": {
   "name": "Stripe",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 732,
+  "raw": 731,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "suncorp": {
   "name": "Suncorp",
@@ -1588,28 +1588,28 @@
  "thoughtworks": {
   "name": "Thoughtworks",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 43,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "tpg-telecom": {
   "name": "TPG Telecom",
   "source": "oracle_hcm",
-  "last_run": "2026-10-18",
-  "seconds": 4.0,
+  "last_run": "2026-10-19",
+  "seconds": 4.3,
   "status": "ok",
   "error": null,
   "raw": 9,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "transport-for-nsw": {
   "name": "Transport for NSW",
@@ -1622,15 +1622,15 @@
  "transurban": {
   "name": "Transurban",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 6.4,
+  "last_run": "2026-10-19",
+  "seconds": 6.0,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "treasury": {
   "name": "Treasury",
@@ -1643,15 +1643,15 @@
  "twilio": {
   "name": "Twilio",
   "source": "greenhouse",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 133,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "tyro-payments": {
   "name": "Tyro Payments",
@@ -1664,15 +1664,15 @@
  "uber": {
   "name": "Uber",
   "source": "oracle_hcm",
-  "last_run": "2026-10-18",
-  "seconds": 6.8,
+  "last_run": "2026-10-19",
+  "seconds": 6.5,
   "status": "ok",
   "error": null,
-  "raw": 233,
+  "raw": 231,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "ubs": {
   "name": "UBS",
@@ -1685,15 +1685,15 @@
  "unisuper": {
   "name": "UniSuper",
   "source": "oracle_hcm",
-  "last_run": "2026-10-18",
-  "seconds": 4.3,
+  "last_run": "2026-10-19",
+  "seconds": 3.8,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "vanguard-australia": {
   "name": "Vanguard Australia",
@@ -1706,15 +1706,15 @@
  "versent": {
   "name": "Versent",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "victorian-government": {
   "name": "Victorian Government",
@@ -1727,15 +1727,15 @@
  "visa": {
   "name": "Visa",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 1.3,
+  "last_run": "2026-10-19",
+  "seconds": 1.4,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "vocus": {
   "name": "Vocus",
@@ -1756,15 +1756,15 @@
  "westpac-group": {
   "name": "Westpac Group",
   "source": "oracle_hcm",
-  "last_run": "2026-10-18",
-  "seconds": 4.4,
+  "last_run": "2026-10-19",
+  "seconds": 4.3,
   "status": "ok",
   "error": null,
-  "raw": 45,
+  "raw": 40,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "whispir": {
   "name": "Whispir",
@@ -1785,15 +1785,15 @@
  "wise": {
   "name": "Wise",
   "source": "smartrecruiters",
-  "last_run": "2026-10-18",
-  "seconds": 0.6,
+  "last_run": "2026-10-19",
+  "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "wisetech-global": {
   "name": "WiseTech Global",
@@ -1814,41 +1814,41 @@
  "workday": {
   "name": "Workday",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 4.9,
+  "last_run": "2026-10-19",
+  "seconds": 4.2,
   "status": "ok",
   "error": null,
   "raw": 18,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "xero": {
   "name": "Xero",
   "source": "ashby",
-  "last_run": "2026-10-18",
+  "last_run": "2026-10-19",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 106,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "zendesk": {
   "name": "Zendesk",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 1.1,
+  "last_run": "2026-10-19",
+  "seconds": 1.2,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "zip-co": {
   "name": "Zip Co",
@@ -1861,15 +1861,15 @@
  "zoom": {
   "name": "Zoom",
   "source": "workday",
-  "last_run": "2026-10-18",
-  "seconds": 1.2,
+  "last_run": "2026-10-19",
+  "seconds": 1.0,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-10-18",
+  "last_ok": "2026-10-19",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-10-18"
+  "last_nonzero": "2026-10-19"
  },
  "zurich-australia": {
   "name": "Zurich Australia",
