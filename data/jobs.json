@@ -13,7 +13,7 @@
    "category": "Other tech",
    "posted_at": "2026-10-27",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false
   },
@@ -30,8 +30,8 @@
    "posted_at": "2026-10-21",
    "first_seen": "2026-10-22",
    "last_seen": "2026-10-27",
-   "missed_runs": 2,
-   "closed": false
+   "missed_runs": 3,
+   "closed": true
   },
   {
    "id": "945c2ac0988e691b",
@@ -45,7 +45,7 @@
    "category": "Software",
    "posted_at": "2026-03-11",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false
   },
@@ -77,7 +77,7 @@
    "category": "Software",
    "posted_at": "2026-09-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -112,7 +112,7 @@
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
    "last_seen": "2026-10-29",
-   "missed_runs": 0,
+   "missed_runs": 1,
    "closed": false,
    "initial": true
   },
@@ -128,7 +128,7 @@
    "category": "ML/AI",
    "posted_at": "2026-08-24",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -162,7 +162,7 @@
    "category": "Software",
    "posted_at": "2026-06-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -179,7 +179,7 @@
    "category": "Software",
    "posted_at": "2026-03-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -196,7 +196,7 @@
    "category": "Software",
    "posted_at": "2026-06-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -230,7 +230,7 @@
    "category": "Software",
    "posted_at": "2026-05-14",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -264,7 +264,7 @@
    "category": "ML/AI",
    "posted_at": "2026-06-23",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -281,7 +281,7 @@
    "category": "ML/AI",
    "posted_at": "2026-06-26",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -298,7 +298,7 @@
    "category": "Software",
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -315,7 +315,7 @@
    "category": "Infra/Cloud/Security",
    "posted_at": "2026-09-10",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-10-30",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -1163,5 +1163,5 @@
    "reason": "Not tracked yet (needs an Anthropic API key)"
   }
  ],
- "updated_at": "2026-10-29T10:56+11:00"
+ "updated_at": "2026-10-30T10:51+11:00"
 }
