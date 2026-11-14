@@ -2,8 +2,8 @@
  "accenture": {
   "name": "Accenture",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 9.6,
+  "last_run": "2026-11-14",
+  "seconds": 14.9,
   "status": "error",
   "error": "KeyError: 'externalPath'",
   "raw": 303,
@@ -15,10 +15,10 @@
  "adobe": {
   "name": "Adobe",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 1.4,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 4,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -28,15 +28,15 @@
  "agl": {
   "name": "AGL",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 5.5,
+  "last_run": "2026-11-14",
+  "seconds": 6.5,
   "status": "ok",
   "error": null,
-  "raw": 8,
+  "raw": 6,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "airtasker": {
   "name": "Airtasker",
@@ -49,41 +49,41 @@
  "airtrunk": {
   "name": "AirTrunk",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.0,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 66,
+  "raw": 67,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "airwallex": {
   "name": "Airwallex",
   "source": "ashby",
-  "last_run": "2026-11-13",
-  "seconds": 0.2,
+  "last_run": "2026-11-14",
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 484,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "akuna-capital": {
   "name": "Akuna Capital",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.0,
   "status": "ok",
   "error": null,
-  "raw": 29,
+  "raw": 31,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "allianz-australia": {
   "name": "Allianz Australia",
@@ -104,36 +104,36 @@
  "amazon-aws": {
   "name": "Amazon / AWS",
   "source": "amazon",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 2.1,
   "status": "ok",
   "error": null,
-  "raw": 24,
+  "raw": 23,
   "matched": 7,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "amp": {
   "name": "AMP",
   "source": "oracle_hcm",
-  "last_run": "2026-11-13",
-  "seconds": 3.7,
+  "last_run": "2026-11-14",
+  "seconds": 3.4,
   "status": "ok",
   "error": null,
   "raw": 7,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "anduril-australia": {
   "name": "Anduril Australia",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.2,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 30.0,
+  "status": "error",
+  "error": "ReadTimeout: ",
   "raw": 2577,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -151,15 +151,15 @@
  "appen": {
   "name": "Appen",
   "source": "lever",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 16,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "apple": {
   "name": "Apple",
@@ -172,15 +172,15 @@
  "apra": {
   "name": "APRA",
   "source": "oracle_hcm",
-  "last_run": "2026-11-13",
-  "seconds": 3.8,
+  "last_run": "2026-11-14",
+  "seconds": 3.2,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "asic": {
   "name": "ASIC",
@@ -193,28 +193,28 @@
  "asx": {
   "name": "ASX",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 4.9,
+  "last_run": "2026-11-14",
+  "seconds": 4.4,
   "status": "ok",
   "error": null,
-  "raw": 17,
+  "raw": 16,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "atlassian": {
   "name": "Atlassian",
   "source": "atlassian",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.2,
   "status": "ok",
   "error": null,
-  "raw": 376,
+  "raw": 289,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "atos": {
   "name": "Atos",
@@ -307,15 +307,15 @@
  "bigtincan": {
   "name": "Bigtincan",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 1,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "blackrock": {
   "name": "BlackRock",
@@ -328,23 +328,23 @@
  "block": {
   "name": "Block (Afterpay / Square)",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 190,
+  "raw": 191,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "boeing-australia": {
   "name": "Boeing Australia",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 1.8,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.2,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 1,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -370,15 +370,15 @@
  "brighte": {
   "name": "Brighte",
   "source": "lever",
-  "last_run": "2026-11-13",
-  "seconds": 0.5,
+  "last_run": "2026-11-14",
+  "seconds": 0.0,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "bureau-of-meteorology": {
   "name": "Bureau of Meteorology",
@@ -391,15 +391,15 @@
  "canva": {
   "name": "Canva",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.7,
   "status": "ok",
   "error": null,
   "raw": 13,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "capgemini": {
   "name": "Capgemini",
@@ -412,28 +412,28 @@
  "carsales": {
   "name": "carsales",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
-  "seconds": 0.4,
+  "last_run": "2026-11-14",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
-  "raw": 19,
+  "raw": 20,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "catapult-sports": {
   "name": "Catapult Sports",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.1,
+  "last_run": "2026-11-14",
+  "seconds": 0.0,
   "status": "ok",
   "error": null,
   "raw": 18,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "cgi": {
   "name": "CGI",
@@ -446,10 +446,10 @@
  "cisco": {
   "name": "Cisco",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 8.8,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 350,
   "matched": 1,
   "last_ok": "2026-11-13",
@@ -467,10 +467,10 @@
  "citi-australia": {
   "name": "Citi Australia",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 2.9,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 18,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -496,23 +496,23 @@
  "commonwealth-bank": {
   "name": "Commonwealth Bank",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 5.2,
+  "last_run": "2026-11-14",
+  "seconds": 6.4,
   "status": "ok",
   "error": null,
-  "raw": 131,
-  "matched": 1,
-  "last_ok": "2026-11-13",
+  "raw": 126,
+  "matched": 0,
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 1.2,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 15,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -530,15 +530,15 @@
  "culture-amp": {
   "name": "Culture Amp",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.1,
+  "last_run": "2026-11-14",
+  "seconds": 0.0,
   "status": "ok",
   "error": null,
-  "raw": 32,
+  "raw": 33,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "cybercx": {
   "name": "CyberCX",
@@ -559,15 +559,15 @@
  "databricks": {
   "name": "Databricks",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 906,
+  "raw": 896,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "datacom": {
   "name": "Datacom",
@@ -580,28 +580,28 @@
  "datadog": {
   "name": "Datadog",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.2,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 382,
+  "raw": 384,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "dell-technologies": {
   "name": "Dell Technologies",
   "source": "oracle_hcm",
-  "last_run": "2026-11-13",
-  "seconds": 6.3,
+  "last_run": "2026-11-14",
+  "seconds": 6.9,
   "status": "ok",
   "error": null,
-  "raw": 233,
+  "raw": 235,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "deloitte": {
   "name": "Deloitte",
@@ -630,15 +630,15 @@
  "deputy": {
   "name": "Deputy",
   "source": "lever",
-  "last_run": "2026-11-13",
-  "seconds": 0.3,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "digital-transformation-agency": {
   "name": "Digital Transformation Agency",
@@ -659,28 +659,28 @@
  "dovetail": {
   "name": "Dovetail",
   "source": "ashby",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.0,
   "status": "ok",
   "error": null,
   "raw": 5,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "dropbox": {
   "name": "Dropbox",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 42,
+  "raw": 44,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "dstg": {
   "name": "DSTG (Defence Science & Tech)",
@@ -701,15 +701,15 @@
  "elastic": {
   "name": "Elastic",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 398,
+  "raw": 400,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "employment-hero": {
   "name": "Employment Hero",
@@ -730,15 +730,15 @@
  "expedia-group": {
   "name": "Expedia Group",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 3.1,
+  "last_run": "2026-11-14",
+  "seconds": 4.2,
   "status": "ok",
   "error": null,
-  "raw": 95,
+  "raw": 97,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "ey": {
   "name": "EY",
@@ -751,15 +751,15 @@
  "ferocia": {
   "name": "Ferocia (Up)",
   "source": "ashby",
-  "last_run": "2026-11-13",
-  "seconds": 0.0,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "fortescue": {
   "name": "Fortescue",
@@ -812,49 +812,49 @@
  "harrison-ai": {
   "name": "Harrison.ai",
   "source": "ashby",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 6,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "heidi-health": {
   "name": "Heidi Health",
   "source": "ashby",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.0,
   "status": "ok",
   "error": null,
   "raw": 18,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "hipages": {
   "name": "hipages",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.0,
   "status": "ok",
   "error": null,
   "raw": 4,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "hp": {
   "name": "HP",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 28.4,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 332,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -904,28 +904,28 @@
  "imc-trading": {
   "name": "IMC Trading",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.0,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 157,
+  "raw": 156,
   "matched": 1,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "immutable": {
   "name": "Immutable",
   "source": "lever",
-  "last_run": "2026-11-13",
-  "seconds": 0.1,
+  "last_run": "2026-11-14",
+  "seconds": 0.0,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "ing-australia": {
   "name": "ING Australia",
@@ -954,41 +954,41 @@
  "j-p-morgan": {
   "name": "J.P. Morgan",
   "source": "oracle_hcm",
-  "last_run": "2026-11-13",
-  "seconds": 19.9,
+  "last_run": "2026-11-14",
+  "seconds": 19.5,
   "status": "ok",
   "error": null,
-  "raw": 746,
+  "raw": 767,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "judo-bank": {
   "name": "Judo Bank",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
-  "seconds": 0.6,
+  "last_run": "2026-11-14",
+  "seconds": 0.7,
   "status": "ok",
   "error": null,
-  "raw": 23,
+  "raw": 22,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "jump-trading": {
   "name": "Jump Trading",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.0,
   "status": "ok",
   "error": null,
   "raw": 92,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "kpmg-australia": {
   "name": "KPMG Australia",
@@ -1001,10 +1001,10 @@
  "kyndryl": {
   "name": "Kyndryl",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 7.7,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylEarlyCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 26,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -1014,10 +1014,10 @@
  "leidos-australia": {
   "name": "Leidos Australia",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 6.4,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 117,
   "matched": 1,
   "last_ok": "2026-11-13",
@@ -1075,10 +1075,10 @@
  "mastercard": {
   "name": "Mastercard",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 18.8,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 1.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 284,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -1096,15 +1096,15 @@
  "megaport": {
   "name": "Megaport",
   "source": "lever",
-  "last_run": "2026-11-13",
-  "seconds": 0.4,
+  "last_run": "2026-11-14",
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
-  "raw": 61,
+  "raw": 62,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "meta": {
   "name": "Meta",
@@ -1149,28 +1149,28 @@
  "nearmap": {
   "name": "Nearmap",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 11,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "nextdc": {
   "name": "NEXTDC",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
-  "seconds": 0.4,
+  "last_run": "2026-11-14",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "nib": {
   "name": "nib",
@@ -1215,10 +1215,10 @@
  "nvidia": {
   "name": "NVIDIA",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 24.9,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 277,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -1228,28 +1228,28 @@
  "octopus-deploy": {
   "name": "Octopus Deploy",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.0,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 6,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "okta": {
   "name": "Okta",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 370,
+  "raw": 363,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "optiver": {
   "name": "Optiver",
@@ -1270,10 +1270,10 @@
  "palo-alto-networks": {
   "name": "Palo Alto Networks",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 5.5,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 220,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -1291,28 +1291,28 @@
  "pexa": {
   "name": "PEXA",
   "source": "lever",
-  "last_run": "2026-11-13",
-  "seconds": 0.1,
+  "last_run": "2026-11-14",
+  "seconds": 0.0,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "prospa": {
   "name": "Prospa",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.1,
+  "last_run": "2026-11-14",
+  "seconds": 0.0,
   "status": "ok",
   "error": null,
-  "raw": 8,
+  "raw": 9,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "pwc-australia": {
   "name": "PwC Australia",
@@ -1333,15 +1333,15 @@
  "quantium": {
   "name": "Quantium",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
-  "seconds": 0.1,
+  "last_run": "2026-11-14",
+  "seconds": 0.0,
   "status": "ok",
   "error": null,
-  "raw": 31,
+  "raw": 32,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "queensland-government": {
   "name": "Queensland Government",
@@ -1362,28 +1362,28 @@
  "reserve-bank-of-australia": {
   "name": "Reserve Bank of Australia",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 5.4,
+  "last_run": "2026-11-14",
+  "seconds": 11.3,
   "status": "ok",
   "error": null,
   "raw": 13,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "resmed": {
   "name": "ResMed",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 2.6,
+  "last_run": "2026-11-14",
+  "seconds": 2.7,
   "status": "ok",
   "error": null,
-  "raw": 43,
+  "raw": 41,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "rio-tinto": {
   "name": "Rio Tinto",
@@ -1404,10 +1404,10 @@
  "rtx-raytheon-australia": {
   "name": "RTX / Raytheon Australia",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 12.6,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/REC_RTX_Ext_Gateway/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 554,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -1417,28 +1417,28 @@
  "safetyculture": {
   "name": "SafetyCulture",
   "source": "ashby",
-  "last_run": "2026-11-13",
-  "seconds": 0.0,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 31,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "salesforce": {
   "name": "Salesforce",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 2.4,
+  "last_run": "2026-11-14",
+  "seconds": 2.0,
   "status": "ok",
   "error": null,
-  "raw": 46,
+  "raw": 48,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "sap": {
   "name": "SAP",
@@ -1451,28 +1451,28 @@
  "seek": {
   "name": "SEEK",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
-  "seconds": 0.4,
+  "last_run": "2026-11-14",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 9,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "servicenow": {
   "name": "ServiceNow",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
-  "raw": 21,
+  "raw": 20,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "services-australia": {
   "name": "Services Australia",
@@ -1493,15 +1493,15 @@
  "siteminder": {
   "name": "SiteMinder",
   "source": "ashby",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 26,
+  "raw": 29,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "slalom": {
   "name": "Slalom",
@@ -1514,28 +1514,28 @@
  "snowflake": {
   "name": "Snowflake",
   "source": "ashby",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.2,
   "status": "ok",
   "error": null,
-  "raw": 377,
+  "raw": 376,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "stripe": {
   "name": "Stripe",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 785,
+  "raw": 786,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "suncorp": {
   "name": "Suncorp",
@@ -1588,28 +1588,28 @@
  "thoughtworks": {
   "name": "Thoughtworks",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 46,
+  "raw": 47,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "tpg-telecom": {
   "name": "TPG Telecom",
   "source": "oracle_hcm",
-  "last_run": "2026-11-13",
-  "seconds": 5.1,
+  "last_run": "2026-11-14",
+  "seconds": 4.2,
   "status": "ok",
   "error": null,
   "raw": 28,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "transport-for-nsw": {
   "name": "Transport for NSW",
@@ -1622,15 +1622,15 @@
  "transurban": {
   "name": "Transurban",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 5.4,
+  "last_run": "2026-11-14",
+  "seconds": 6.5,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "treasury": {
   "name": "Treasury",
@@ -1643,15 +1643,15 @@
  "twilio": {
   "name": "Twilio",
   "source": "greenhouse",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.0,
   "status": "ok",
   "error": null,
-  "raw": 117,
+  "raw": 115,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "tyro-payments": {
   "name": "Tyro Payments",
@@ -1664,15 +1664,15 @@
  "uber": {
   "name": "Uber",
   "source": "oracle_hcm",
-  "last_run": "2026-11-13",
-  "seconds": 7.1,
+  "last_run": "2026-11-14",
+  "seconds": 6.4,
   "status": "ok",
   "error": null,
   "raw": 243,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "ubs": {
   "name": "UBS",
@@ -1685,15 +1685,15 @@
  "unisuper": {
   "name": "UniSuper",
   "source": "oracle_hcm",
-  "last_run": "2026-11-13",
-  "seconds": 4.1,
+  "last_run": "2026-11-14",
+  "seconds": 3.8,
   "status": "ok",
   "error": null,
   "raw": 4,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "vanguard-australia": {
   "name": "Vanguard Australia",
@@ -1706,15 +1706,15 @@
  "versent": {
   "name": "Versent",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "victorian-government": {
   "name": "Victorian Government",
@@ -1727,10 +1727,10 @@
  "visa": {
   "name": "Visa",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 1.3,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 12,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -1756,15 +1756,15 @@
  "westpac-group": {
   "name": "Westpac Group",
   "source": "oracle_hcm",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 4.6,
   "status": "ok",
   "error": null,
-  "raw": 49,
+  "raw": 44,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "whispir": {
   "name": "Whispir",
@@ -1785,15 +1785,15 @@
  "wise": {
   "name": "Wise",
   "source": "smartrecruiters",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "wisetech-global": {
   "name": "WiseTech Global",
@@ -1814,10 +1814,10 @@
  "workday": {
   "name": "Workday",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 4.0,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 12,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -1827,23 +1827,23 @@
  "xero": {
   "name": "Xero",
   "source": "ashby",
-  "last_run": "2026-11-13",
+  "last_run": "2026-11-14",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 98,
+  "raw": 99,
   "matched": 0,
-  "last_ok": "2026-11-13",
+  "last_ok": "2026-11-14",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-13"
+  "last_nonzero": "2026-11-14"
  },
  "zendesk": {
   "name": "Zendesk",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 1.4,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.2,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://zendesk.wd1.myworkdayjobs.com/wday/cxs/zendesk/zendesk/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 8,
   "matched": 0,
   "last_ok": "2026-11-13",
@@ -1861,10 +1861,10 @@
  "zoom": {
   "name": "Zoom",
   "source": "workday",
-  "last_run": "2026-11-13",
-  "seconds": 1.2,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-14",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Server error '521 <none>' for url 'https://zoom.wd5.myworkdayjobs.com/wday/cxs/zoom/Zoom/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "raw": 1,
   "matched": 0,
   "last_ok": "2026-11-13",
